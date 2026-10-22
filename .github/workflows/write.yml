@@ -1,0 +1,70 @@
+name: Write articles
+
+# Every weekday morning (Sunday to Thursday, 6am New York) the writer adds the
+# next articles from the plan and the site redeploys. It never runs on Shabbos
+# or Yom Tov, and skips any day Hebcal marks as Yom Tov.
+#
+# How many per day: repo variable ARTICLES_PER_DAY (default 6).
+# Opus 5.5 costs roughly $0.15 to $0.25 per article.
+
+on:
+  schedule:
+    - cron: "0 10 * * 0-4"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "Articles to write"
+        default: "3"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: writer
+  cancel-in-progress: false
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Skip Yom Tov
+        id: day
+        run: |
+          today=$(TZ=America/New_York date +%F)
+          yt=$(curl -fsS "https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&start=$today&end=$today" | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{const j=JSON.parse(s);console.log((j.items||[]).some(i=>i.yomtov)?"yes":"no")})' || echo no)
+          echo "yomtov=$yt" >> "$GITHUB_OUTPUT"
+          [ "$yt" = yes ] && echo "Yom Tov today, not writing." || true
+
+      - name: Write
+        if: steps.day.outputs.yomtov != 'yes'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COUNT: ${{ github.event.inputs.count || vars.ARTICLES_PER_DAY || '6' }}
+        run: |
+          if [ -z "${ANTHROPIC_API_KEY:-}" ]; then echo "::error::Add the ANTHROPIC_API_KEY repo secret."; exit 1; fi
+          npm install --no-save --no-package-lock @anthropic-ai/sdk
+          node scripts/write.mjs --count "$COUNT" --date "$(TZ=America/New_York date +%F)"
+
+      - name: Test
+        if: steps.day.outputs.yomtov != 'yes'
+        run: npm test
+
+      - name: Commit and deploy
+        if: steps.day.outputs.yomtov != 'yes'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "torah-stories-writer"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/articles
+          git diff --cached --quiet && { echo "nothing new"; exit 0; }
+          git commit -m "Add $(git diff --cached --name-only | wc -l | tr -d ' ') articles"
+          git push
+          # A push made with the Actions token does not trigger other workflows, so start the deploy directly.
+          gh workflow run deploy.yml --ref main

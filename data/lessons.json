@@ -1,0 +1,213 @@
+{
+  "about": "Rules learned from mistakes the daily blog review found. The blog writer reads ALL of these before writing; the reviewer adds new ones every run. Never delete a lesson without the owner's say-so.",
+  "lessons": [
+    {
+      "rule": "Never use Markdown (**bold**, *italic*) anywhere in an article - keyFacts, body or FAQ. Use <strong> and <em>.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Count a parsha's position from the actual list: Bereishis has 12 parshiyos, so Shemos is the 13th and Yisro the 17th. Do not guess ordinal numbers.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Do not claim a person is mentioned or absent in 'every' parsha or 'only' one parsha unless it is precisely true; Moshe's name is also absent from several parshiyos of Devarim.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Credit Rashi, Chazal, the Gemara, the Sifra, Ramban or later meforshim only with what they actually say, and on the exact words they comment on; when unsure, write 'Chazal' or 'the meforshim explain' or leave the attribution out. Examples: the distinct layout of Ha'azinu in the Sefer Torah comes from Maseches Soferim and the Rambam, not the Gemara (Megillah gives one layout for all shiros); Rashi at the end of the Torah comments on 'לעיני כל ישראל' and only quotes 'אשר שברת' as his proof; on 'מקץ שנתים' Rashi only explains מקץ as 'מסוף' - 'two years from the steward's release' is from other meforshim such as the Ramban; in Pekudei Rashi says the Mishkan's boards were too heavy for ANY person to raise (כבדים מדי לכל אדם), not 'for one person'.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "When something is stated explicitly in a pasuk, attribute it to the Torah ('the Torah tells us'), not to Chazal or the midrash. Example: 'the earth was filled with chamas' (Noach) is an explicit pasuk.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Keep the Torah's order of events and pesukim: Binyamin is born and then Rachel passes away; Yishmael is born before the bris and the name change to Avraham; the goral on the two goats comes before the ketores on Yom Kippur; Vezos HaBracha comes after Haazinu; in Ki Savo 'hayom hazeh nihyeisa l'am' (Devarim 27:9) comes before the Har Gerizim/Har Eival section, not near the end of the parsha.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Metzora purification order (Vayikra 14): on the first day the birds, then he washes his clothes, shaves, immerses and ENTERS the camp, but stays outside his tent seven days; on the seventh day he shaves and immerses again; on the eighth day he brings korbanos. Never write that he returns to the camp only after the korbanos.",
+      "since": "2026-10-19"
+    },
+    {
+      "rule": "Do not invent outcomes the pasuk leaves out (e.g. the pasuk does not say Yitzchak came down the mountain with Avraham), and do not move a pasuk or event to the wrong parsha: na'aseh v'nishma is Mishpatim 24:7; shikchah is in Ki Seitzei, not Kedoshim; Avraham's hachnasas orchim (running to the guests, serving them) is in Vayera, not Lech Lecha; the metzora's purification with two birds and his korbanos are in Parshas Metzora, not Tazria - in a Tazria article write 'in Parshas Metzora, which follows'.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Workers' wages: Kedoshim (Vayikra 19:13) says do not keep a worker's wages overnight until morning; 'pay before the sun goes down' is Ki Seitzei (Devarim 24:15). For Kedoshim write 'do not hold back wages overnight' or 'pay on time', not 'the same day' or 'before sunset'.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Bikkurim: the Mishnah describes a procession (שיירה) carrying baskets of fruit, led by an ox; do not describe it as a wagon (עגלה).",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Yitzchak lived for decades after giving the brachos; the gid hanasheh prohibition comes from Yaakov's injury, not from the name Yisrael; the first bird of the metzora is slaughtered over an earthenware vessel of spring water - it is NOT a korban and not offered in the Mishkan (write 'one bird is slaughtered' everywhere, including keyFacts and summaries); terumas hadeshen was done by a kohen, not specifically the Kohen Gadol.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Speak about the Avos, Moshe, Noach and other tzaddikim with respect: Avraham 'davened to Hashem' for Sedom (never 'argued with Hashem'); about Noach after the Mabul write 'how careful even a great person must be', never that he 'lost control of himself'. Remember the Torah calls Noach a tzaddik.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "State halacha carefully and never too broadly: girls from 12 and boys from 13 fast on Yom Kippur; seeing stars through schach is preferred, not required; lechem mishneh is an obligation, not a minhag; Shabbos Mevarchim has no special maftir. When in doubt, say 'ask your rav'.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Do not state a Torah rule flatly when the parsha itself gives an exception: Shemini forbids creeping creatures but explicitly permits four kinds of locust (Vayikra 11:21-22), so write 'apart from a few kinds of locust the Torah permits'. Check the parsha's own text for exceptions before writing 'never' or 'not eaten'.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Do not apply a detail of one case to all cases: in Tazria-Metzora only tzaraas on the skin is described as white; tzaraas on garments and houses is greenish or reddish (ירקרק או אדמדם). Describe tzaraas generally as 'a mark' without a color unless speaking of a specific kind.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Name the bigdei kehunah crafts exactly as the Torah does: the ephod and choshen are מעשה חושב (Shemos 28:6, 15); מעשה אורג is said of the me'il (28:32). Check the pasuk before labeling any garment's workmanship.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Do not call everyday kindness (helping a sibling carry something, etc.) a 'literal fulfillment' of a specific mitzvah like lifting a fallen animal; write 'real ways of living out the mitzvos' or 'in the spirit of the mitzvah'.",
+      "since": "2026-10-18"
+    },
+    {
+      "rule": "Any activity involving writing, drawing, coloring, cutting or crafts (including the coloring book) is melacha: never place it under a Shabbos-table heading or suggest it for Shabbos; frame it explicitly as a weekday or erev Shabbos activity (e.g. 'to prepare during the week or before Shabbos'), and add this framing even when it is only a side option inside a Shabbos section. When suggesting it for a time span that can include Shabbos or Yom Tov (Chanukah afternoons, 'no cheder' days, Chol Hamoed, vacation days), always add the word 'weekday'. Shabbos-table suggestions must be talking, singing, questions and stories only.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Check the calendar for the current year before giving dates and note when Yom Tov falls on Shabbos (e.g. no shofar on the first day of Rosh Hashanah that falls on Shabbos).",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "For parshiyos that are often read together (Tazria-Metzora, Acharei-Kedoshim, Behar-Bechukosai, Matos-Masei, Nitzavim-Vayelech, Vayakhel-Pekudei, Chukas-Balak), do not call the second one 'next week's parsha'; write 'the next parsha'.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Never write Hashem's name in full in Hebrew: use ה', השם or האלקים.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Product facts come ONLY from the facts sheet: three formats plus an optional coloring book (never 'four formats'); up to eight children ages 0-18; customers do not preview or approve the book; no 'two months free'; quote shipping exactly as the facts sheet states it and make no delivery promises (no 'it's on its way to you' / 'וזה בדרך אליכם', no 'see it in their hands before Shabbos', no 'so the book arrives in time' - write 'so the book CAN arrive in time'); at most say 'order before the deadline for Shabbos'.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Never claim the story text differs by format or age (no 'gentlest outline' in the board book, no 'fuller retelling' in the hardcover, no Rashi or deeper ideas only in certain versions); the facts sheet does not say this, and every book carries the discussion page. Say only that the child's age is one of the short ordering questions and describe formats by their stated age ranges.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Describe the catalog only as the facts sheet does: stories from across Nevi'im and Kesuvim (never 'all of Tanach' - this keeps recurring), and name only the seven collections exactly as listed (e.g. Torah - never 'Chumash collection' - Nevi'im, Kesuvim, Yamim Tovim, Jewish life, mitzvos, tzadikim); never invent a collection such as 'סיפורי המידות', and never add contents to a collection beyond the facts sheet (e.g. the Yamim Tovim collection covers the Yamim Tovim - do not say it includes Shabbos or the fast days).",
+      "since": "2026-10-18"
+    },
+    {
+      "rule": "Never call the product a 'ספר תורה' (that means a Sefer Torah scroll) in text, quoted phrases or SEO keywords - this keeps recurring, so check them; use 'ספר סיפורי תורה מותאם אישית', 'ספר פרשה מותאם אישית', 'ספר פרשת שבוע מותאם אישית' or 'ספר ילדים על הפרשה'.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Format ages and sizes exactly, in English and Hebrew, every time they appear (body, FAQ, CTA, keyFacts): 6x6 board book with rounded safety corners ages 0-4 (never 2-4 / 'two to four'), 8x8 softcover ages 4-8, 8x8 hardcover ages 5-18 (never 5-12 / 'five to twelve'). The hardcover is 8x8 only - never mention 'square or landscape' (מרובעת או לרוחב). This mistake keeps recurring: search every format mention in both languages before finishing.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Describe the art style only as '3D animated-film style' (סגנון סרט אנימציה תלת־ממדי). Never write Pixar/פיקסאר or name any secular entertainment brand or studio, anywhere in the article, in either language - check the Hebrew section too.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Describe book creation as a free account plus 'a few short questions' (כמה שאלות קצרות): name, boy or girl, age, one photo, siblings, story, the family's community (asked once), language, format. Never give a count like 'eight questions' (שמונה שאלות) anywhere, in either language, and never leave the community question or the free account out. Check every mention (body, FAQ, CTA) in both languages.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Subscription options are exactly: a single book, or a collection subscription (מנוי לאוסף) - 4 books a month in one delivery billed monthly, or a year paid up front - the whole collection, every book in it, in one payment. Never invent product names or plans: no 'Weekly', 'Monthly', 'Monthly or Year Bundle', 'weekly subscription' (מנוי שבועי), 'Parsha Series', 'Year Bundle' or 'חבילה שנתית', and never imply a book arrives every week.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Do not invent statistics, proportions or customer behavior ('most families do...', 'half comprehension and half middos') that the facts sheet does not state.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Numbers inside a sentence must match what the article itself lists (if it says 'eight questions', list eight; 'three words' must be three words - 'Hatzur tamim pa'alo' is three words).",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Never leave a sentence or list unfinished: when listing items (e.g. Moshe's three signs - the staff that became a snake, the hand that became tzarua and healed, the water that became blood) give every item in full; reread both languages for truncated phrases before finishing.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Proofread Hebrew spelling and grammar, including inside link text and CTAs: הביתה (not הבייתה), שלושה עשר ספרי תורה, ספר דברים without stray vowels, שנתרמו (not שנתרומו), correct gender agreement of verbs with their subject (סיכוי is masculine: 'לא היה להם סיכוי', never 'הייתה'), plene spelling (ניצחו, not נצחו), correct prepositions (להשתמש ב..., never 'את ... להשתמש בה'), an infinitive after אפשר ('אפשר <a>ליצור את הספר</a>', never 'אפשר ליצירת הספר' - this keeps recurring), and an infinitive for a middah or instruction stated as a heading ('לגמור את מה שהתחלת', not 'גמר את מה שהתחלת').",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Check Hebrew verb forms and construct nouns: use the correct binyan (צובעים, never מצבעים); a passive verb like נצטווה needs a person as subject, so write 'למה דווקא על הארון נצטוו ראשון', never 'הארון נצטווה'; a construct noun never takes ה (בעל הטורים, never הבעל הטורים; likewise בעל שם טוב, ספר התורה).",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Anything in quotation marks presented as a pasuk must be the exact text of the pasuk; check it word for word (e.g. Shemos 1:17 is 'ותיראן המילדת את האלקים ולא עשו כאשר דבר אליהן מלך מצרים'). If paraphrasing, drop the quotation marks.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Quote midrash details exactly and keep the English and Hebrew versions identical: in Shemos Rabbah 2:2 Moshe chased a runaway kid/young goat (גדי), not a lamb.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "Use Ashkenazi transliteration consistently throughout an article: Bereishis (not Bereishit), Shabbos, parshas, etc. Never mix Sephardi/Israeli spellings into the same article.",
+      "since": "2026-10-18"
+    },
+    {
+      "rule": "Never link an article to itself, never wrap [[IMAGE:...]] tokens in <p>, and give every article its own SEO title (no near-duplicate titles between related parshiyos).",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Never use long dashes (em or en dash) in reader-facing text; use a plain hyphen or rephrase.",
+      "since": "2026-10-14"
+    },
+    {
+      "rule": "Describe the book's pages exactly and consistently: every book has a discussion page with ten questions that mix comprehension with middos (no stated split), but it is NOT the last page (softcover and hardcover end with a drawing page, the board book with a family page). Never call it 'the last page'; say 'every book includes'.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "The book creator suggests NEXT week's parsha, not this week's; do not write 'this week's parsha' (or הפרשה של השבוע) or anything implying the book will be in the child's hands 'this Shabbos'. Name the specific Shabbos (e.g. 'for Shabbos Chayei Sarah') or write 'when the parsha comes around'.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Do not say a parsha 'ends with' or 'begins with' (or 'ends up at') a pasuk or story unless it is literally its first or last part; Kedoshim ends with 20:27 (ov and yidoni), not 20:26; Noach ends with Migdal Bavel and the generations down to Avram, not with the rainbow - write 'where the story of the Mabul ends'. Otherwise write 'near its end' or 'near its beginning'.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Shemos/Bo facts: the dough had no time to rise and they baked it into matzos (12:39) - do not say it baked in the sun on their shoulders; Moshe said 'k'chatzos' (about midnight) while the makkah came exactly at midnight; before arbeh Pharaoh refused only the children (טף), the refusal over the flocks came after choshech.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Place each dibbur where the pesukim place it: 'beni bechori Yisrael... shalach es beni' (Shemos 4:22-23) was said to Moshe in Midyan as he set out to return to Mitzrayim (4:19-23), not at the sneh.",
+      "since": "2026-10-20"
+    },
+    {
+      "rule": "In Beshalach the water comes from the rock (צור) at Refidim; 'the be'er' (be'er of Miriam, Shiras Habe'er) belongs to Chukas.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Quote actions and words as the pasuk describes them, with the exact verb: Rivka emptied her jug into the trough and ran again to the well (ותרץ עוד אל הבאר), not to the trough; Yosef's future was shown to him in his own dreams - write 'what he dreamed', not 'what he was told'; with nega'im on a person, the person is brought to the Kohen (והובא אל הכהן) - the Kohen does not come to him.",
+      "since": "2026-10-15"
+    },
+    {
+      "rule": "Discussion questions and FAQ wording must not contradict the pesukim or presuppose something false: Yosef did speak harshly to his brothers (וידבר אתם קשות, Mikeitz), so ask what he did 'instead of taking revenge', never 'instead of shouting at them'.",
+      "since": "2026-10-19"
+    },
+    {
+      "rule": "Keep pshat and midrash clearly separate: label midrashic details as midrash ('the midrash tells...') and never present them as plain fact alongside explicit pesukim. Example: at the Yarden the pasuk says the water stopped when the kohanim's feet entered it; at Yam Suf, Nachshon ben Aminadav entering the water first is from the midrash, not the pesukim.",
+      "since": "2026-10-18"
+    },
+    {
+      "rule": "Do not attribute a haftarah, reading or minhag to one community (Ashkenazim/Sephardim) unless it is truly exclusive to them; when shared, state it generally. Example: the haftarah of the first day of Pesach from Yehoshua chapter 5 is read by both Ashkenazim and Sephardim (Ashkenazim also open with pesukim from chapter 3).",
+      "since": "2026-10-18"
+    },
+    {
+      "rule": "Yericho (Yehoshua 6): the kohanim blew the shofros on every circuit, all six days and on the seventh (6:8-9, 13); only the people's shout waited for the seventh day, after the seventh circuit and the long blast. The armed men marched in front of the kohanim and the Aron and only the rear guard walked behind it, so write 'with the Aron', never that the people walked 'behind the Aron'.",
+      "since": "2026-10-19"
+    },
+    {
+      "rule": "Do not invent or compress time frames the pesukim do not give: no 'the same week/day' or 'immediately afterward' unless the text says so (e.g. the Yarden crossing, the milah, the Korban Pesach and the fall of Yericho are not stated to be one week; in Shemini, Moshe's instructions about Nadav and Avihu and mourning come before Hashem speaks to Aharon about wine, which Rashi presents as a reward for his silence). Write 'soon after', 'the same story' or 'as a reward'.",
+      "since": "2026-10-19"
+    },
+    {
+      "rule": "Keep every retelling of an event consistent within the article: a summary, intro, keyFacts or FAQ must not contradict the article's own detailed description or midrash elsewhere; check repeated details (Torah facts and product facts) against each other before finishing. Example: if the article cites the midrash that scoffers whispered about Moshe in Pekudei, do not write 'nobody suspected him' - write 'he was above suspicion'.",
+      "since": "2026-10-19"
+    }
+  ]
+}

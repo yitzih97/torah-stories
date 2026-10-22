@@ -1,0 +1,13 @@
+{
+  "name": "torah-stories",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "write": "node scripts/write.mjs",
+    "plan": "node scripts/write.mjs --plan --count 30",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

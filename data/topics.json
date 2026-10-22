@@ -1,0 +1,2792 @@
+[
+ {
+  "id": "bereishit",
+  "label": "Parshas Bereishis",
+  "he": "פרשת בראשית",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Hashem creates the world in six days - light and darkness, sky and sea, every creature that swims and flies and walks - and rests on the seventh. Adam and Chava are placed in Gan Eden, and a child watches the whole world come into being one word at a time.",
+  "hasTorahTalePage": true,
+  "cover": "bereishit.webp"
+ },
+ {
+  "id": "noach",
+  "label": "Parshas Noach",
+  "he": "פרשת נח",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "The world has gone crooked, and one man is asked to build a teivah and fill it with pairs of every living thing. Forty days of rain, a dove sent out over the water, and a rainbow that promises it will never happen again.",
+  "hasTorahTalePage": true,
+  "cover": "noach.webp"
+ },
+ {
+  "id": "lech-lecha",
+  "label": "Parshas Lech Lecha",
+  "he": "פרשת לך לך",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Avraham is told to leave everything he knows for a land he has not seen. He goes. Along the way he goes to war to rescue Lot, and is shown a night sky full of stars and told his children will be as many.",
+  "hasTorahTalePage": true,
+  "cover": "lech-lecha.webp"
+ },
+ {
+  "id": "vayera",
+  "label": "Parshas Vayeira",
+  "he": "פרשת וירא",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Three visitors arrive at Avraham's tent in the heat of the day, and he runs to serve them. Sarah laughs, Sedom burns, and at the end Avraham is asked for the one thing he cannot imagine giving - and Yitzchak is spared.",
+  "hasTorahTalePage": true,
+  "cover": "vayera.webp"
+ },
+ {
+  "id": "chayei-sarah",
+  "label": "Parshas Chayei Sarah",
+  "he": "פרשת חיי שרה",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Sarah's life ends and Avraham buys the Me'aras HaMachpeilah to bury her. Then Eliezer is sent to find a wife for Yitzchak, and he knows he has found her when a girl at a well draws water for ten thirsty camels without being asked.",
+  "hasTorahTalePage": true,
+  "cover": "chayei-sarah.webp"
+ },
+ {
+  "id": "toldot",
+  "label": "Parshas Toldos",
+  "he": "פרשת תולדות",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Twins are born who could not be less alike. Yitzchak digs his father's wells again, Yaakov buys the birthright for a pot of lentils, and Rivka sends her son to receive the brachos - and then to run.",
+  "hasTorahTalePage": true,
+  "cover": "toldot.webp"
+ },
+ {
+  "id": "vayetzei",
+  "label": "Parshas Vayeitzei",
+  "he": "פרשת ויצא",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Alone on the road with a stone for a pillow, Yaakov dreams of a ladder reaching to shamayim. He works seven years for Rachel, then seven more, and leaves Lavan's house with a family and flocks of his own.",
+  "hasTorahTalePage": true,
+  "cover": "vayetzei.webp"
+ },
+ {
+  "id": "vayishlach",
+  "label": "Parshas Vayishlach",
+  "he": "פרשת וישלח",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Yaakov prepares to meet Eisav - with gifts, with tefillah, and ready to fight. In the night a stranger wrestles him until dawn and gives him a new name: Yisrael, the one who struggled and endured.",
+  "hasTorahTalePage": true,
+  "cover": "vayishlach.webp"
+ },
+ {
+  "id": "vayeshev",
+  "label": "Parshas Vayeishev",
+  "he": "פרשת וישב",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Yosef's brothers cannot bear his dreams or his striped coat. He is thrown into a pit, sold, and carried down to Mitzrayim - and even in prison he is the one people come to when they need a dream explained.",
+  "hasTorahTalePage": true,
+  "cover": "vayeshev.webp"
+ },
+ {
+  "id": "miketz",
+  "label": "Parshas Mikeitz",
+  "he": "פרשת מקץ",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Paroh dreams of seven fat cows and seven thin ones, and no one can tell him what it means until Yosef is brought up from the dungeon. In a single day he goes from prisoner to viceroy, and his brothers arrive looking for food.",
+  "hasTorahTalePage": true,
+  "cover": "miketz.webp"
+ },
+ {
+  "id": "vayigash",
+  "label": "Parshas Vayigash",
+  "he": "פרשת ויגש",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Yehudah steps forward and offers himself in Binyamin's place, and Yosef cannot hold it in any longer. \"I am Yosef - is my father still alive?\" The family is whole again, and Yaakov comes down to Mitzrayim.",
+  "hasTorahTalePage": true,
+  "cover": "vayigash.webp"
+ },
+ {
+  "id": "vayechi",
+  "label": "Parshas Vayechi",
+  "he": "פרשת ויחי",
+  "category": "torah",
+  "book": "Bereishit",
+  "summary": "Yaakov gathers his sons to bless them, each one in his own way, and asks to be buried in Eretz Yisrael. A family that began with one man leaving home has become twelve shevatim.",
+  "hasTorahTalePage": true,
+  "cover": "vayechi.webp"
+ },
+ {
+  "id": "shemot",
+  "label": "Parshas Shemos",
+  "he": "פרשת שמות",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "A new king rises who did not know Yosef. A baby is hidden in a basket on the Nile and raised in the palace; grown, he sees a bush burning without being consumed and is sent back to say four words to Paroh: let my people go.",
+  "hasTorahTalePage": true,
+  "cover": "shemot.webp"
+ },
+ {
+  "id": "vaera",
+  "label": "Parshas Va'eira",
+  "he": "פרשת וארא",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "Paroh says no, and the makkos begin - blood, frogs, lice, wild animals, dever, boils, and hail that burns while it falls. Seven plagues, and a heart that hardens after every one.",
+  "hasTorahTalePage": true,
+  "cover": "vaera.webp"
+ },
+ {
+  "id": "bo",
+  "label": "Parshas Bo",
+  "he": "פרשת בא",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "Locusts, darkness you could feel, and then the night of makkas bechoros. Blood on the doorposts, matzah baked in haste, and by morning Bnei Yisrael walk out of Mitzrayim as a nation.",
+  "hasTorahTalePage": true,
+  "cover": "bo.webp"
+ },
+ {
+  "id": "beshalach",
+  "label": "Parshas Beshalach",
+  "he": "פרשת בשלח",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "The sea in front, Mitzrayim behind. Moshe raises his staff, the water splits into walls, and a whole people walks through on dry land - then sings shirah on the far shore.",
+  "hasTorahTalePage": true,
+  "cover": "beshalach.webp"
+ },
+ {
+  "id": "yitro",
+  "label": "Parshas Yisro",
+  "he": "פרשת יתרו",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "Yisro comes to the midbar with advice, and then the mountain trembles. Thunder, fire, the sound of a shofar growing louder, and the Aseres HaDibros spoken to every single person standing there.",
+  "hasTorahTalePage": true,
+  "cover": "yitro.webp"
+ },
+ {
+  "id": "mishpatim",
+  "label": "Parshas Mishpatim",
+  "he": "פרשת משפטים",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "After the fire and thunder come the details: how to treat a worker, a neighbour, a borrowed animal, someone who has nothing. The laws that turn a nation that heard Hashem into a nation that lives like it.",
+  "hasTorahTalePage": true,
+  "cover": "mishpatim.webp"
+ },
+ {
+  "id": "terumah",
+  "label": "Parshas Terumah",
+  "he": "פרשת תרומה",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "Bring gold, silver, wool dyed blue and purple, acacia wood - whatever your heart moves you to give. From those gifts comes the Mishkan, the Aron, the Shulchan and the Menorah, so that Hashem's presence can rest among them.",
+  "hasTorahTalePage": true,
+  "cover": "terumah.webp"
+ },
+ {
+  "id": "tetzaveh",
+  "label": "Parshas Tetzaveh",
+  "he": "פרשת תצוה",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "Pure olive oil for a lamp that never goes out, and the bigdei kehunah: the robe with bells along its hem, the choshen set with twelve stones, and a gold tzitz across Aharon's forehead.",
+  "hasTorahTalePage": true,
+  "cover": "tetzaveh.webp"
+ },
+ {
+  "id": "ki-tisa",
+  "label": "Parshas Ki Sisa",
+  "he": "פרשת כי תשא",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "Moshe is on the mountain forty days, and below the people build a golden calf. He shatters the luchos, davens for them, and climbs back up to bring down a second set - and comes down with his face shining.",
+  "hasTorahTalePage": true,
+  "cover": "ki-tisa.webp"
+ },
+ {
+  "id": "vayakhel",
+  "label": "Parshas Vayakhel",
+  "he": "פרשת ויקהל",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "Moshe gathers the people and they bring so much for the Mishkan that he has to tell them to stop. Betzalel builds every piece exactly as it was shown, and Shabbos comes first, even now.",
+  "hasTorahTalePage": true,
+  "cover": "vayakhel.webp"
+ },
+ {
+  "id": "pekudei",
+  "label": "Parshas Pekudei",
+  "he": "פרשת פקודי",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "Every coin and every thread is accounted for, and the Mishkan is finally raised. A cloud rests over it by day and a fire by night, and Sefer Shemos ends with Hashem dwelling among His people.",
+  "hasTorahTalePage": true,
+  "cover": "pekudei.webp"
+ },
+ {
+  "id": "vayakhel-pekudei",
+  "label": "Parshas Vayakhel-Pekudei",
+  "he": "פרשת ויקהל-פקודי",
+  "category": "torah",
+  "book": "Shemot",
+  "summary": "The people bring more than the Mishkan needs, Betzalel builds it exactly as shown, and every coin is accounted for. When it is raised at last, a cloud rests on it by day and a fire by night.",
+  "hasTorahTalePage": false,
+  "cover": "vayakhel-pekudei.webp"
+ },
+ {
+  "id": "vayikra",
+  "label": "Parshas Vayikra",
+  "he": "פרשת ויקרא",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "Sefer Vayikra opens with a call to Moshe and the laws of the korbanos - the olah, the minchah, the shelamim. A book about coming close, and about what a person brings when they want to.",
+  "hasTorahTalePage": true,
+  "cover": "vayikra.webp"
+ },
+ {
+  "id": "tzav",
+  "label": "Parshas Tzav",
+  "he": "פרשת צו",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "The instructions turn to the kohanim: the fire on the mizbe'ach that must never go out, and the seven days in which Aharon and his sons are prepared to serve.",
+  "hasTorahTalePage": true,
+  "cover": "tzav.webp"
+ },
+ {
+  "id": "shemini",
+  "label": "Parshas Shemini",
+  "he": "פרשת שמיני",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "On the eighth day the Mishkan begins its work, and a fire comes down. Then the simanim of a kosher animal, bird and fish - the signs a Yiddishe child learns to look for at the table.",
+  "hasTorahTalePage": true,
+  "cover": "shemini.webp"
+ },
+ {
+  "id": "tazria",
+  "label": "Parshas Tazria",
+  "he": "פרשת תזריע",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "The laws of tumah and taharah, and of tzara'as - a mark on the skin or on a garment, and the kohen who is called to look at it.",
+  "hasTorahTalePage": true,
+  "cover": "tazria.webp"
+ },
+ {
+  "id": "metzora",
+  "label": "Parshas Metzora",
+  "he": "פרשת מצורע",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "How a person with tzara'as is brought back in - the birds, the cedar wood, the days outside the camp and the day of returning. Chazal tie the affliction to lashon hara, and the way back to guarding one's mouth.",
+  "hasTorahTalePage": true,
+  "cover": "metzora.webp"
+ },
+ {
+  "id": "tazria-metzora",
+  "label": "Parshas Tazria-Metzora",
+  "he": "פרשת תזריע-מצורע",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "Tzara'as on skin, on clothing, even on the walls of a house - and the long road back into the camp. Chazal tie the mark to lashon hara, which makes this a parsha about the power of what we say.",
+  "hasTorahTalePage": false,
+  "cover": "tazria-metzora.webp"
+ },
+ {
+  "id": "acharei-mot",
+  "label": "Parshas Acharei Mos",
+  "he": "פרשת אחרי מות",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "The avodah of Yom Kippur in the Kodesh HaKodashim: the two goats, the ketores, and the one day a year the Kohen Gadol steps inside. Then the laws that keep a Yiddishe home holy.",
+  "hasTorahTalePage": true,
+  "cover": "acharei-mot.webp"
+ },
+ {
+  "id": "kedoshim",
+  "label": "Parshas Kedoshim",
+  "he": "פרשת קדושים",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "\"You shall be holy.\" Leave the corners of your field for the poor, judge fairly, do not stand by while someone is hurt, do not carry hatred in your heart - and love your fellow as yourself.",
+  "hasTorahTalePage": true,
+  "cover": "kedoshim.webp"
+ },
+ {
+  "id": "acharei-mot-kedoshim",
+  "label": "Parshas Acharei Mos-Kedoshim",
+  "he": "פרשת אחרי מות-קדושים",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "The avodah of Yom Kippur, and then the call to be holy: leave the corners of the field, judge fairly, do not bear a grudge, and love your fellow as yourself.",
+  "hasTorahTalePage": false,
+  "cover": "acharei-mot-kedoshim.webp"
+ },
+ {
+  "id": "emor",
+  "label": "Parshas Emor",
+  "he": "פרשת אמור",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "Laws of kedushah for the kohanim, and then the calendar of the year - Shabbos, Pesach, the Omer, Shavuos, Rosh Hashanah, Yom Kippur, Sukkos - the moadim laid out one after another.",
+  "hasTorahTalePage": true,
+  "cover": "emor.webp"
+ },
+ {
+  "id": "behar",
+  "label": "Parshas Behar",
+  "he": "פרשת בהר",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "Shemittah and Yovel: a year when the land rests, and a fiftieth year when the shofar sounds, servants go free and fields return to their families. A parsha about who the land really belongs to.",
+  "hasTorahTalePage": true,
+  "cover": "behar.webp"
+ },
+ {
+  "id": "bechukotai",
+  "label": "Parshas Bechukosai",
+  "he": "פרשת בחוקותי",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "The brachos that come with keeping the Torah and the warnings that follow leaving it - rain in its season, peace in the land, and Hashem walking among His people.",
+  "hasTorahTalePage": true,
+  "cover": "bechukotai.webp"
+ },
+ {
+  "id": "behar-bechukotai",
+  "label": "Parshas Behar-Bechukosai",
+  "he": "פרשת בהר-בחוקותי",
+  "category": "torah",
+  "book": "Vayikra",
+  "summary": "The land rests in shemittah and returns to its families in Yovel - and then the brachos that come with keeping the Torah and the warnings that follow leaving it.",
+  "hasTorahTalePage": false,
+  "cover": "behar-bechukotai.webp"
+ },
+ {
+  "id": "bamidbar",
+  "label": "Parshas Bamidbar",
+  "he": "פרשת במדבר",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "Bnei Yisrael are counted and camp shevet by shevet around the Mishkan, each with its own flag - a whole nation arranged in the midbar with the Mishkan at the centre.",
+  "hasTorahTalePage": true,
+  "cover": "bamidbar.webp"
+ },
+ {
+  "id": "naso",
+  "label": "Parshas Naso",
+  "he": "פרשת נשא",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "The families of Levi and their loads, the nazir who separates himself, Birkas Kohanim, and twelve nesi'im who each bring the same offering - and are each written out in full.",
+  "hasTorahTalePage": true,
+  "cover": "naso.webp"
+ },
+ {
+  "id": "behaalotecha",
+  "label": "Parshas Beha'aloscha",
+  "he": "פרשת בהעלותך",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "Aharon lights the Menorah, the cloud lifts and the camp travels, and the people complain about the food. Miriam speaks about her brother and learns what words can do.",
+  "hasTorahTalePage": true,
+  "cover": "behaalotecha.webp"
+ },
+ {
+  "id": "shelach",
+  "label": "Parshas Shelach",
+  "he": "פרשת שלח",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "Twelve meraglim go up to see the land. Ten come back afraid and one report changes everything - forty days of touring become forty years of travelling. Yehoshua and Kalev stand alone.",
+  "hasTorahTalePage": true,
+  "cover": "shelach.webp"
+ },
+ {
+  "id": "korach",
+  "label": "Parshas Korach",
+  "he": "פרשת קרח",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "Korach challenges Moshe and Aharon and gathers two hundred and fifty men behind him. The ground opens, and Aharon's staff blossoms overnight with almonds to settle the question for good.",
+  "hasTorahTalePage": true,
+  "cover": "korach.webp"
+ },
+ {
+  "id": "chukat",
+  "label": "Parshas Chukas",
+  "he": "פרשת חוקת",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "The parah adumah, Miriam's passing and the well that goes with her, Moshe striking the rock instead of speaking to it, and the copper snake the people look up at to be healed.",
+  "hasTorahTalePage": true,
+  "cover": "chukat.webp"
+ },
+ {
+  "id": "balak",
+  "label": "Parshas Balak",
+  "he": "פרשת בלק",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "A king hires Bilaam to curse Bnei Yisrael. His donkey sees the malach before he does, and every time he opens his mouth to curse, a brachah comes out instead - \"Mah tovu ohalecha Yaakov.\"",
+  "hasTorahTalePage": true,
+  "cover": "balak.webp"
+ },
+ {
+  "id": "chukat-balak",
+  "label": "Parshas Chukas-Balak",
+  "he": "פרשת חוקת-בלק",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "The parah adumah and the rock Moshe strikes, and then Bilaam - hired to curse, carried by a donkey that sees more than he does, and blessing Bnei Yisrael every time he opens his mouth.",
+  "hasTorahTalePage": false,
+  "cover": "chukat-balak.webp"
+ },
+ {
+  "id": "pinchas",
+  "label": "Parshas Pinchas",
+  "he": "פרשת פנחס",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "Pinchas acts and is given a bris shalom. The people are counted again, the daughters of Tzelafchad ask for their portion and are answered, and Yehoshua is chosen to lead.",
+  "hasTorahTalePage": true,
+  "cover": "pinchas.webp"
+ },
+ {
+  "id": "matot",
+  "label": "Parshas Matos",
+  "he": "פרשת מטות",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "The seriousness of a vow - a word given is a word kept. The war with Midyan, and the shevatim who ask to settle east of the Yarden and promise to cross over and fight first.",
+  "hasTorahTalePage": true,
+  "cover": "matot.webp"
+ },
+ {
+  "id": "masei",
+  "label": "Parshas Masei",
+  "he": "פרשת מסעי",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "Forty-two journeys through the midbar, written out one by one, and the borders of Eretz Yisrael. The arei miklat are set aside, and Sefer Bamidbar closes at the edge of the land.",
+  "hasTorahTalePage": true,
+  "cover": "masei.webp"
+ },
+ {
+  "id": "matot-masei",
+  "label": "Parshas Matos-Masei",
+  "he": "פרשת מטות-מסעי",
+  "category": "torah",
+  "book": "Bamidbar",
+  "summary": "A vow taken seriously, the shevatim who settle east of the Yarden, and then forty-two journeys through the midbar written out one by one as Bnei Yisrael reach the edge of the land.",
+  "hasTorahTalePage": false,
+  "cover": "matot-masei.webp"
+ },
+ {
+  "id": "devarim",
+  "label": "Parshas Devarim",
+  "he": "פרשת דברים",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Moshe begins his final words to the nation - forty years remembered out loud, the meraglim, the wars, and the lessons of a generation that grew up in the midbar.",
+  "hasTorahTalePage": true,
+  "cover": "devarim.webp"
+ },
+ {
+  "id": "vaetchanan",
+  "label": "Parshas Va'eschanan",
+  "he": "פרשת ואתחנן",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Moshe davens to enter the land and is told to look instead. The Aseres HaDibros are said again, and Shema Yisrael is given - the words a Yiddishe child learns first and says last.",
+  "hasTorahTalePage": true,
+  "cover": "vaetchanan.webp"
+ },
+ {
+  "id": "eikev",
+  "label": "Parshas Eikev",
+  "he": "פרשת עקב",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Remember the mon, remember the well, remember that it was not your own strength that brought you here. A parsha about gratitude, and about a land that drinks rain from shamayim.",
+  "hasTorahTalePage": true,
+  "cover": "eikev.webp"
+ },
+ {
+  "id": "reeh",
+  "label": "Parshas Re'eh",
+  "he": "פרשת ראה",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "A brachah and a klalah set before the people, the laws of kosher animals, maaser, shemittah of debts, and giving to a poor person with an open hand and without a grudging heart.",
+  "hasTorahTalePage": true,
+  "cover": "reeh.webp"
+ },
+ {
+  "id": "shoftim",
+  "label": "Parshas Shoftim",
+  "he": "פרשת שופטים",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Judges at every gate and justice pursued honestly. Laws for a king, for kohanim, for a navi - and the rules of war, including the trees that may not be cut down.",
+  "hasTorahTalePage": true,
+  "cover": "shoftim.webp"
+ },
+ {
+  "id": "ki-teitzei",
+  "label": "Parshas Ki Seitzei",
+  "he": "פרשת כי תצא",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "More mitzvos than any other parsha - returning a lost object, sending away the mother bird, building a fence around a roof, honest weights, and remembering what Amalek did.",
+  "hasTorahTalePage": true,
+  "cover": "ki-teitzei.webp"
+ },
+ {
+  "id": "ki-tavo",
+  "label": "Parshas Ki Savo",
+  "he": "פרשת כי תבוא",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Bikkurim carried up to the Beis HaMikdash in a basket, the brachos and klalos declared on two mountains, and Moshe reminding the people how far they have come.",
+  "hasTorahTalePage": true,
+  "cover": "ki-tavo.webp"
+ },
+ {
+  "id": "nitzavim",
+  "label": "Parshas Nitzavim",
+  "he": "פרשת נצבים",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "\"You are all standing here today\" - every single one, from the water-drawer to the leader. Teshuvah is not far away or across the sea; it is very close, in your mouth and in your heart.",
+  "hasTorahTalePage": true,
+  "cover": "nitzavim.webp"
+ },
+ {
+  "id": "vayelech",
+  "label": "Parshas Vayeilech",
+  "he": "פרשת וילך",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Moshe at a hundred and twenty hands the leadership to Yehoshua, writes the Torah down and gives it to the kohanim, and commands Hakhel - the whole nation gathered to hear it read.",
+  "hasTorahTalePage": true,
+  "cover": "vayelech.webp"
+ },
+ {
+  "id": "nitzavim-vayelech",
+  "label": "Parshas Nitzavim-Vayeilech",
+  "he": "פרשת נצבים-וילך",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Everyone stands together to enter the bris, and teshuvah is close enough to reach. Moshe hands the leadership to Yehoshua, writes down the Torah, and commands Hakhel.",
+  "hasTorahTalePage": false,
+  "cover": "nitzavim-vayelech.webp"
+ },
+ {
+  "id": "haazinu",
+  "label": "Parshas Ha'azinu",
+  "he": "פרשת האזינו",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Moshe's shirah - shamayim and earth called as witnesses, the story of a nation told as poetry, and a last look at the land from Har Nevo.",
+  "hasTorahTalePage": true,
+  "cover": "haazinu.webp"
+ },
+ {
+  "id": "vezot-habracha",
+  "label": "Parshas V'Zos Habracha",
+  "he": "פרשת וזאת הברכה",
+  "category": "torah",
+  "book": "Devarim",
+  "summary": "Moshe blesses each shevet by name, sees the whole land from the mountain, and passes away with no one knowing his burial place. The Torah ends, and on Simchas Torah we begin again.",
+  "hasTorahTalePage": true,
+  "cover": "vezot-habracha.webp"
+ },
+ {
+  "id": "yehoshua-jordan",
+  "label": "Sefer Yehoshua - Crossing the Yarden",
+  "he": "ספר יהושע - חציית הירדן",
+  "category": "neviim",
+  "book": "Yehoshua",
+  "summary": "Forty years in the midbar are over. The kohanim carry the Aron into the Yarden, the river stops mid-flow, and a whole nation walks across into Eretz Yisrael on dry ground.",
+  "hasTorahTalePage": true,
+  "cover": "yehoshua-jordan.webp"
+ },
+ {
+  "id": "yehoshua-jericho",
+  "label": "Sefer Yehoshua - Walls of Yericho",
+  "he": "ספר יהושע - חומות יריחו",
+  "category": "neviim",
+  "book": "Yehoshua",
+  "summary": "Six days of walking silently around the walls, and on the seventh a shofar blast and a shout - and the walls of Yericho come down. Rachav and her family are kept safe, as promised.",
+  "hasTorahTalePage": true,
+  "cover": "yehoshua-jericho.webp"
+ },
+ {
+  "id": "yehoshua-sun",
+  "label": "Sefer Yehoshua - The Sun Stands Still",
+  "he": "ספר יהושע - השמש עומדת בגבעון",
+  "category": "neviim",
+  "book": "Yehoshua",
+  "summary": "In the middle of a battle Yehoshua asks for something no one had asked before: for the sun to stand still until the fighting is done. And it does.",
+  "hasTorahTalePage": true,
+  "cover": "yehoshua-sun.webp"
+ },
+ {
+  "id": "devorah",
+  "label": "Sefer Shoftim - Devorah",
+  "he": "ספר שופטים - דבורה",
+  "category": "neviim",
+  "book": "Shoftim",
+  "summary": "Devorah judges Bnei Yisrael under a palm tree and sends Barak out against Sisera's iron chariots. When the victory comes, she sings one of the great shiros in Tanach.",
+  "hasTorahTalePage": true,
+  "cover": "devorah.webp"
+ },
+ {
+  "id": "shimshon",
+  "label": "Sefer Shoftim - Shimshon",
+  "he": "ספר שופטים - שמשון",
+  "category": "neviim",
+  "book": "Shoftim",
+  "summary": "A nazir from birth with strength no one could explain - tearing a lion apart with his hands, carrying away the gates of Azah, and one last tefillah between two pillars.",
+  "hasTorahTalePage": true,
+  "cover": "shimshon.webp"
+ },
+ {
+  "id": "gidon",
+  "label": "Sefer Shoftim - Gidon's Small Army",
+  "he": "ספר שופטים - צבאו הקטן של גדעון",
+  "category": "neviim",
+  "book": "Shoftim",
+  "summary": "Gidon is threshing wheat in a winepress when he is told he will save Bnei Yisrael. His army is cut from thousands down to three hundred, so everyone knows Who won the battle.",
+  "hasTorahTalePage": true,
+  "cover": "gidon.webp"
+ },
+ {
+  "id": "shmuel-birth",
+  "label": "Sefer Shmuel - Birth of Shmuel",
+  "he": "ספר שמואל - לידת שמואל",
+  "category": "neviim",
+  "book": "Shmuel",
+  "summary": "Chana davens at the Mishkan with her lips moving and no sound coming out. Her tefillah is answered, and the boy she is given, Shmuel, is brought back to serve there.",
+  "hasTorahTalePage": true,
+  "cover": "shmuel-birth.webp"
+ },
+ {
+  "id": "david-goliath",
+  "label": "Sefer Shmuel - Dovid & Golyas",
+  "he": "ספר שמואל - דוד וגלית",
+  "category": "neviim",
+  "book": "Shmuel",
+  "summary": "A giant in armour taunts the whole army, and a shepherd boy with a sling steps forward. Dovid comes in the name of Hashem, and one stone ends it.",
+  "hasTorahTalePage": true,
+  "cover": "david-goliath.webp"
+ },
+ {
+  "id": "david-yonatan",
+  "label": "Sefer Shmuel - Dovid & Yonasan",
+  "he": "ספר שמואל - דוד ויונתן",
+  "category": "neviim",
+  "book": "Shmuel",
+  "summary": "A friendship that survives a jealous king - arrows shot as a coded warning, a promise kept between two people who love each other for nothing they can gain from it.",
+  "hasTorahTalePage": true,
+  "cover": "david-yonatan.webp"
+ },
+ {
+  "id": "shlomo-wisdom",
+  "label": "Sefer Melachim - Shlomo's Wisdom",
+  "he": "ספר מלכים - חכמת שלמה",
+  "category": "neviim",
+  "book": "Melachim",
+  "summary": "Offered anything, Shlomo asks for a listening heart. Two women claim the same baby, and the wisest king in the world settles it with a sword he never intends to use.",
+  "hasTorahTalePage": true,
+  "cover": "shlomo-wisdom.webp"
+ },
+ {
+  "id": "eliyahu-carmel",
+  "label": "Sefer Melachim - Eliyahu on Carmel",
+  "he": "ספר מלכים - אליהו בכרמל",
+  "category": "neviim",
+  "book": "Melachim",
+  "summary": "Eliyahu gathers everyone to Har HaCarmel for a test no one can argue with. The prophets of Baal call all day; Eliyahu davens once, fire falls, and the people cry out that Hashem is G-d.",
+  "hasTorahTalePage": true,
+  "cover": "eliyahu-carmel.webp"
+ },
+ {
+  "id": "eliyahu-chariot",
+  "label": "Sefer Melachim - Eliyahu's Chariot",
+  "he": "ספר מלכים - מרכבת אליהו",
+  "category": "neviim",
+  "book": "Melachim",
+  "summary": "Eliyahu and Elisha walk together to the Yarden, the water parts, and a chariot of fire carries Eliyahu up in a storm - leaving his mantle, and his work, to Elisha.",
+  "hasTorahTalePage": true,
+  "cover": "eliyahu-chariot.webp"
+ },
+ {
+  "id": "elisha-miracles",
+  "label": "Sefer Melachim - Elisha's Miracles",
+  "he": "ספר מלכים - ניסי אלישע",
+  "category": "neviim",
+  "book": "Melachim",
+  "summary": "A widow's small jar of oil that fills every vessel she can borrow, bitter water made sweet, and a boy brought back to life - the quiet miracles of Elisha.",
+  "hasTorahTalePage": true,
+  "cover": "elisha-miracles.webp"
+ },
+ {
+  "id": "yeshayahu-peace",
+  "label": "Sefer Yeshayahu - Vision of Peace",
+  "he": "ספר ישעיהו - חזון השלום",
+  "category": "neviim",
+  "book": "Yeshayahu",
+  "summary": "Swords beaten into ploughshares, a wolf lying down with a lamb, and the whole earth full of the knowledge of Hashem. Yeshayahu's picture of the world as it will be.",
+  "hasTorahTalePage": true,
+  "cover": "yeshayahu-peace.webp"
+ },
+ {
+  "id": "yeshayahu-coal",
+  "label": "Sefer Yeshayahu - The Glowing Coal",
+  "he": "ספר ישעיהו - הגחלת הלוהטת",
+  "category": "neviim",
+  "book": "Yeshayahu",
+  "summary": "Yeshayahu sees the Kisei HaKavod and says he is not worthy to speak. A malach touches his lips with a glowing coal, and he answers: here I am, send me.",
+  "hasTorahTalePage": true,
+  "cover": "yeshayahu-coal.webp"
+ },
+ {
+  "id": "yeshayahu-chizkiyahu",
+  "label": "Sefer Yeshayahu - Chizkiyahu's Tefillah",
+  "he": "ספר ישעיהו - תפילת חזקיהו",
+  "category": "neviim",
+  "book": "Yeshayahu",
+  "summary": "Yerushalayim is surrounded and the king is told to surrender. Chizkiyahu spreads the letter out before Hashem and davens - and by morning the siege is broken.",
+  "hasTorahTalePage": true,
+  "cover": "yeshayahu-chizkiyahu.webp"
+ },
+ {
+  "id": "yirmiyahu-call",
+  "label": "Sefer Yirmiyahu - The Navi's Call",
+  "he": "ספר ירמיהו - קריאת הנביא",
+  "category": "neviim",
+  "book": "Yirmiyahu",
+  "summary": "Yirmiyahu says he is only a boy and cannot speak. He is told that he was known before he was formed, and that the words will be given to him.",
+  "hasTorahTalePage": true,
+  "cover": "yirmiyahu-call.webp"
+ },
+ {
+  "id": "yirmiyahu-potter",
+  "label": "Sefer Yirmiyahu - The Potter's Clay",
+  "he": "ספר ירמיהו - חומר היוצר",
+  "category": "neviim",
+  "book": "Yirmiyahu",
+  "summary": "Yirmiyahu is sent to watch a potter at his wheel. A vessel goes wrong in his hands and he makes it again - and that is the whole message.",
+  "hasTorahTalePage": true,
+  "cover": "yirmiyahu-potter.webp"
+ },
+ {
+  "id": "yirmiyahu-pit",
+  "label": "Sefer Yirmiyahu - Saved from the Pit",
+  "he": "ספר ירמיהו - הצלה מן הבור",
+  "category": "neviim",
+  "book": "Yirmiyahu",
+  "summary": "Yirmiyahu is thrown into a muddy pit for telling the truth, and rescued by Eved-Melech with worn-out rags used as padding for the ropes - a small kindness remembered forever.",
+  "hasTorahTalePage": true,
+  "cover": "yirmiyahu-pit.webp"
+ },
+ {
+  "id": "yechezkel-bones",
+  "label": "Sefer Yechezkel - The Valley of Dry Bones",
+  "he": "ספר יחזקאל - בקעת העצמות היבשות",
+  "category": "neviim",
+  "book": "Yechezkel",
+  "summary": "A valley full of dry bones, and a question: can these live again? Yechezkel prophesies, the bones come together, and a whole nation stands up - the picture of Klal Yisrael returning.",
+  "hasTorahTalePage": true,
+  "cover": "yechezkel-bones.webp"
+ },
+ {
+  "id": "yechezkel-sticks",
+  "label": "Sefer Yechezkel - Two Sticks Become One",
+  "he": "ספר יחזקאל - שני העצים לאחד",
+  "category": "neviim",
+  "book": "Yechezkel",
+  "summary": "Two sticks with two names written on them, held together in one hand until they become one piece of wood. A promise that a divided people will be whole again.",
+  "hasTorahTalePage": true,
+  "cover": "yechezkel-sticks.webp"
+ },
+ {
+  "id": "yechezkel-watchman",
+  "label": "Sefer Yechezkel - The Watchman",
+  "he": "ספר יחזקאל - הצופה",
+  "category": "neviim",
+  "book": "Yechezkel",
+  "summary": "A watchman on the wall who sees danger coming must blow the shofar. Yechezkel is told that speaking up is not optional when you can see what others cannot.",
+  "hasTorahTalePage": true,
+  "cover": "yechezkel-watchman.webp"
+ },
+ {
+  "id": "yonah",
+  "label": "Sefer Yonah - Yonah & the Big Fish",
+  "he": "ספר יונה - יונה והדג הגדול",
+  "category": "neviim",
+  "book": "Trei Asar",
+  "summary": "Sent to Nineveh, Yonah boards a ship going the other way. A storm, a big fish, three days in the dark - and a city that hears the warning and does teshuvah.",
+  "hasTorahTalePage": true,
+  "cover": "yonah.webp"
+ },
+ {
+  "id": "amos-shepherd",
+  "label": "Sefer Amos - The Shepherd Navi",
+  "he": "ספר עמוס - הנביא הרועה",
+  "category": "neviim",
+  "book": "Trei Asar",
+  "summary": "Amos was not a navi or the son of one - he tended sheep and sycamore figs. Called anyway, he speaks about honest scales and caring for the poor.",
+  "hasTorahTalePage": true,
+  "cover": "amos-shepherd.webp"
+ },
+ {
+  "id": "zechariah-menorah",
+  "label": "Sefer Zechariah - The Golden Menorah",
+  "he": "ספר זכריה - המנורה של זהב",
+  "category": "neviim",
+  "book": "Trei Asar",
+  "summary": "Zechariah is shown a golden menorah fed by two olive trees, and told what it means: not by strength and not by power, but by My spirit.",
+  "hasTorahTalePage": true,
+  "cover": "zechariah-menorah.webp"
+ },
+ {
+  "id": "tehillim-shepherd",
+  "label": "Tehillim - Hashem Is My Shepherd",
+  "he": "תהלים - ה׳ רועי",
+  "category": "ketuvim",
+  "book": "Tehillim",
+  "summary": "Hashem is my shepherd, I shall not want. The perek a Yiddishe child learns early and carries for life - green pastures, still waters, and walking through the valley unafraid.",
+  "hasTorahTalePage": true,
+  "cover": "tehillim-shepherd.webp"
+ },
+ {
+  "id": "tehillim-creation",
+  "label": "Tehillim - Praising Creation",
+  "he": "תהלים - הלל הבריאה",
+  "category": "ketuvim",
+  "book": "Tehillim",
+  "summary": "The heavens tell of Hashem's glory and the sky declares His handiwork. A perek that teaches a child to look up and hear the whole world saying something.",
+  "hasTorahTalePage": true,
+  "cover": "tehillim-creation.webp"
+ },
+ {
+  "id": "tehillim-thanks",
+  "label": "Tehillim - A Song of Thanks",
+  "he": "תהלים - מזמור לתודה",
+  "category": "ketuvim",
+  "book": "Tehillim",
+  "summary": "Give thanks to Hashem for He is good - a song of hoda'ah, and the habit of noticing what you have been given before you ask for anything else.",
+  "hasTorahTalePage": true,
+  "cover": "tehillim-thanks.webp"
+ },
+ {
+  "id": "mishlei-wisdom",
+  "label": "Sefer Mishlei - Wisdom",
+  "he": "ספר משלי - חכמה",
+  "category": "ketuvim",
+  "book": "Mishlei",
+  "summary": "Shlomo HaMelech's advice to a child: fear of Hashem is the beginning of wisdom. Short, sharp lines about choosing good company and guarding your words.",
+  "hasTorahTalePage": true,
+  "cover": "mishlei-wisdom.webp"
+ },
+ {
+  "id": "mishlei-ant",
+  "label": "Sefer Mishlei - Learn from the Ant",
+  "he": "ספר משלי - לך אל נמלה",
+  "category": "ketuvim",
+  "book": "Mishlei",
+  "summary": "Go to the ant, lazy one, and see her ways. No boss, no supervisor, and still she gathers her food in the summer - a lesson in doing what needs doing.",
+  "hasTorahTalePage": true,
+  "cover": "mishlei-ant.webp"
+ },
+ {
+  "id": "mishlei-eishes-chayil",
+  "label": "Sefer Mishlei - Eishes Chayil",
+  "he": "ספר משלי - אשת חיל",
+  "category": "ketuvim",
+  "book": "Mishlei",
+  "summary": "The song sung at the Shabbos table: a woman of valour whose worth is beyond pearls, whose hands are open to the poor, and whose children rise and praise her.",
+  "hasTorahTalePage": true,
+  "cover": "mishlei-eishes-chayil.webp"
+ },
+ {
+  "id": "iyov",
+  "label": "Sefer Iyov - A Test of Emunah",
+  "he": "ספר איוב - מבחן האמונה",
+  "category": "ketuvim",
+  "book": "Iyov",
+  "summary": "Everything is taken from a good man - his wealth, his children, his health - and he still does not turn away. The hardest question in Tanach, asked honestly.",
+  "hasTorahTalePage": true,
+  "cover": "iyov.webp"
+ },
+ {
+  "id": "iyov-friends",
+  "label": "Sefer Iyov - Iyov's Three Friends",
+  "he": "ספר איוב - שלושת רעי איוב",
+  "category": "ketuvim",
+  "book": "Iyov",
+  "summary": "Three friends come to sit with Iyov. For seven days they say nothing, which is the best thing they do; then they start explaining, and get it wrong.",
+  "hasTorahTalePage": true,
+  "cover": "iyov-friends.webp"
+ },
+ {
+  "id": "iyov-storm",
+  "label": "Sefer Iyov - Hashem Answers in the Storm",
+  "he": "ספר איוב - ה׳ עונה מן הסערה",
+  "category": "ketuvim",
+  "book": "Iyov",
+  "summary": "Hashem answers Iyov out of a whirlwind - not with reasons, but with questions. Where were you when I laid the earth's foundations? And Iyov puts his hand to his mouth.",
+  "hasTorahTalePage": true,
+  "cover": "iyov-storm.webp"
+ },
+ {
+  "id": "daniel-lions",
+  "label": "Sefer Daniel - The Lion's Den",
+  "he": "ספר דניאל - גוב האריות",
+  "category": "ketuvim",
+  "book": "Daniel",
+  "summary": "Daniel keeps davening at his open window even after it is made illegal. Thrown to the lions, he is found in the morning untouched - the mouths of the lions shut.",
+  "hasTorahTalePage": true,
+  "cover": "daniel-lions.webp"
+ },
+ {
+  "id": "daniel-furnace",
+  "label": "Sefer Daniel - The Fiery Furnace",
+  "he": "ספר דניאל - כבשן האש",
+  "category": "ketuvim",
+  "book": "Daniel",
+  "summary": "Chananya, Mishael and Azarya refuse to bow to a golden statue and are thrown into a furnace heated seven times over. They walk out with not even the smell of fire on them.",
+  "hasTorahTalePage": true,
+  "cover": "daniel-furnace.webp"
+ },
+ {
+  "id": "daniel-writing",
+  "label": "Sefer Daniel - The Writing on the Wall",
+  "he": "ספר דניאל - הכתב על הקיר",
+  "category": "ketuvim",
+  "book": "Daniel",
+  "summary": "In the middle of a feast a hand appears and writes on the wall. No one can read it until Daniel is brought - and that same night the kingdom changes hands.",
+  "hasTorahTalePage": true,
+  "cover": "daniel-writing.webp"
+ },
+ {
+  "id": "ezra-return",
+  "label": "Sefer Ezra - Return to Yerushalayim",
+  "he": "ספר עזרא - שיבת ירושלים",
+  "category": "ketuvim",
+  "book": "Ezra",
+  "summary": "After seventy years of galus, the road home. Zerubavel leads the first return to Yerushalayim with the vessels of the Beis HaMikdash carried carefully in their hands, and years later Ezra the sofer brings another group home.",
+  "hasTorahTalePage": true,
+  "cover": "ezra-return.webp"
+ },
+ {
+  "id": "ezra-mikdash",
+  "label": "Sefer Ezra - Building the Second Beis HaMikdash",
+  "he": "ספר עזרא - בניין בית המקדש השני",
+  "category": "ketuvim",
+  "book": "Ezra",
+  "summary": "The foundation of the second Beis HaMikdash is laid. The young people cheer and the old people weep, remembering the first - and the two sounds cannot be told apart.",
+  "hasTorahTalePage": true,
+  "cover": "ezra-mikdash.webp"
+ },
+ {
+  "id": "ezra-torah",
+  "label": "Sefer Ezra - Ezra Teaches the Torah",
+  "he": "ספר עזרא - עזרא מלמד תורה",
+  "category": "ketuvim",
+  "book": "Ezra",
+  "summary": "In the days of Nechemia, Ezra stands on a wooden platform and reads the Torah aloud from morning until midday, and the Leviim explain it, and the whole nation listens and understands.",
+  "hasTorahTalePage": true,
+  "cover": "ezra-torah.webp"
+ },
+ {
+  "id": "nechemia-walls",
+  "label": "Sefer Nechemia - Rebuilding the Walls",
+  "he": "ספר נחמיה - בניית החומות",
+  "category": "ketuvim",
+  "book": "Nechemia",
+  "summary": "Nechemia hears Yerushalayim's walls are broken and cannot rest. He inspects them by night, rallies the families, and the whole city rebuilds - each household its own stretch.",
+  "hasTorahTalePage": true,
+  "cover": "nechemia-walls.webp"
+ },
+ {
+  "id": "nechemia-tefillah",
+  "label": "Sefer Nechemia - A Tefillah for Yerushalayim",
+  "he": "ספר נחמיה - תפילה למען ירושלים",
+  "category": "ketuvim",
+  "book": "Nechemia",
+  "summary": "Before he asks the king for anything, Nechemia fasts and davens for the city he has never seen. A lesson in where to turn first.",
+  "hasTorahTalePage": true,
+  "cover": "nechemia-tefillah.webp"
+ },
+ {
+  "id": "nechemia-guard",
+  "label": "Sefer Nechemia - Guarding Day and Night",
+  "he": "ספר נחמיה - שמירה יומם ולילה",
+  "category": "ketuvim",
+  "book": "Nechemia",
+  "summary": "The builders work with a tool in one hand and a weapon in the other, and half stand guard while half build. The walls go up in fifty-two days.",
+  "hasTorahTalePage": true,
+  "cover": "nechemia-guard.webp"
+ },
+ {
+  "id": "divrei-hayamim",
+  "label": "Sefer Divrei HaYamim - The Story of the Malchus",
+  "he": "ספר דברי הימים - סיפור המלכות",
+  "category": "ketuvim",
+  "book": "Divrei HaYamim",
+  "summary": "The story of the malchus told again from the beginning - the generations, the kings, and the thread running through them all the way to Dovid's house.",
+  "hasTorahTalePage": true,
+  "cover": "divrei-hayamim.webp"
+ },
+ {
+  "id": "divrei-mikdash",
+  "label": "Sefer Divrei HaYamim - Dovid Prepares the Mikdash",
+  "he": "ספר דברי הימים - דוד מכין את המקדש",
+  "category": "ketuvim",
+  "book": "Divrei HaYamim",
+  "summary": "Dovid is told he will not build the Beis HaMikdash, and spends the rest of his life gathering the gold, the silver and the cedar so that Shlomo can.",
+  "hasTorahTalePage": true,
+  "cover": "divrei-mikdash.webp"
+ },
+ {
+  "id": "divrei-leviim",
+  "label": "Sefer Divrei HaYamim - The Leviim Sing",
+  "he": "ספר דברי הימים - שירת הלויים",
+  "category": "ketuvim",
+  "book": "Divrei HaYamim",
+  "summary": "The Leviim appointed to sing before the Aron day and night - a whole family given one job: to make sure the avodah is never silent.",
+  "hasTorahTalePage": true,
+  "cover": "divrei-leviim.webp"
+ },
+ {
+  "id": "esther",
+  "label": "Megillas Esther",
+  "he": "מגילת אסתר",
+  "category": "ketuvim",
+  "book": "Megillos",
+  "summary": "A Jewish girl becomes queen of Persia, a wicked adviser casts lots to destroy her people, and everything turns over. Hashem's name is never mentioned, and His hand is on every page.",
+  "hasTorahTalePage": true,
+  "cover": "esther.webp"
+ },
+ {
+  "id": "ruth",
+  "label": "Megillas Rus",
+  "he": "מגילת רות",
+  "category": "ketuvim",
+  "book": "Megillos",
+  "summary": "A Moabite widow refuses to leave her mother-in-law - your people are my people. She gathers barley in Boaz's field, and becomes the great-grandmother of Dovid HaMelech.",
+  "hasTorahTalePage": true,
+  "cover": "ruth.webp"
+ },
+ {
+  "id": "shir-hashirim",
+  "label": "Shir HaShirim",
+  "he": "שיר השירים",
+  "category": "ketuvim",
+  "book": "Megillos",
+  "summary": "The song of songs, read as the love between Hashem and Klal Yisrael - gardens, spices, a voice calling at the door, and a longing that runs through the whole megillah.",
+  "hasTorahTalePage": true,
+  "cover": "shir-hashirim.webp"
+ },
+ {
+  "id": "kohelet",
+  "label": "Koheles",
+  "he": "קהלת",
+  "category": "ketuvim",
+  "book": "Megillos",
+  "summary": "Shlomo HaMelech tries everything under the sun - wealth, building, wisdom, pleasure - and comes back to one conclusion: fear Hashem and keep His mitzvos, that is the whole person.",
+  "hasTorahTalePage": true,
+  "cover": "kohelet.webp"
+ },
+ {
+  "id": "eicha",
+  "label": "Megillas Eicha",
+  "he": "מגילת איכה",
+  "category": "ketuvim",
+  "book": "Megillos",
+  "summary": "The kinnos of a city left empty, read on Tisha B'Av by candlelight. It ends by asking Hashem to bring us back - renew our days as of old.",
+  "hasTorahTalePage": true,
+  "cover": "eicha.webp"
+ },
+ {
+  "id": "shabbos",
+  "label": "Shabbos",
+  "he": "שבת",
+  "category": "holidays",
+  "book": null,
+  "summary": "Candles lit before sunset, kiddush over wine, challah under its cover, and a whole day when the world stops asking anything of you. The day a Yiddishe child learns to look forward to all week.",
+  "hasTorahTalePage": true,
+  "cover": "shabbos.webp"
+ },
+ {
+  "id": "pesach",
+  "label": "Pesach",
+  "he": "פסח",
+  "category": "holidays",
+  "book": null,
+  "summary": "Searching for chametz by candlelight, the seder table with its four kosos and its questions, matzah and maror, and the story of leaving Mitzrayim told as though we left ourselves.",
+  "hasTorahTalePage": true,
+  "cover": "pesach.webp"
+ },
+ {
+  "id": "purim",
+  "label": "Purim",
+  "he": "פורים",
+  "category": "holidays",
+  "book": null,
+  "summary": "Megillah read twice with the graggers ready, mishloach manos carried to neighbours, matanos la'evyonim, and a seudah where a story that could have ended terribly ended upside down instead.",
+  "hasTorahTalePage": true,
+  "cover": "purim.webp"
+ },
+ {
+  "id": "chanukah",
+  "label": "Chanukah",
+  "he": "חנוכה",
+  "category": "holidays",
+  "book": null,
+  "summary": "One small jug of oil that should have lasted a day and lasted eight. Lighting by the window, latkes and sufganiyos, dreidels, and the light growing by one flame every night.",
+  "hasTorahTalePage": true,
+  "cover": "chanukah.webp"
+ },
+ {
+  "id": "sukkot",
+  "label": "Sukkos",
+  "he": "סוכות",
+  "category": "holidays",
+  "book": null,
+  "summary": "Eating and sleeping in a sukkah under schach you can see the stars through, the lulav and esrog held together and shaken, and simcha that fills a whole week.",
+  "hasTorahTalePage": true,
+  "cover": "sukkot.webp"
+ },
+ {
+  "id": "shavuot",
+  "label": "Shavuos",
+  "he": "שבועות",
+  "category": "holidays",
+  "book": null,
+  "summary": "Staying up learning through the night, standing to hear the Aseres HaDibros again, cheesecake and flowers, and the day Klal Yisrael became a nation that has the Torah.",
+  "hasTorahTalePage": true,
+  "cover": "shavuot.webp"
+ },
+ {
+  "id": "rosh-hashana",
+  "label": "Rosh Hashanah",
+  "he": "ראש השנה",
+  "category": "holidays",
+  "book": null,
+  "summary": "Apples dipped in honey, a round challah, and the shofar - a hundred blasts that wake something up. The day the whole world passes before Hashem.",
+  "hasTorahTalePage": true,
+  "cover": "rosh-hashana.webp"
+ },
+ {
+  "id": "yom-kippur",
+  "label": "Yom Kippur",
+  "he": "יום כיפור",
+  "category": "holidays",
+  "book": null,
+  "summary": "White clothes, no food and no drink, a full day of tefillah, and the shofar blast at the very end when the fast is over and something has been settled.",
+  "hasTorahTalePage": true,
+  "cover": "yom-kippur.webp"
+ },
+ {
+  "id": "simchat-torah",
+  "label": "Simchas Torah",
+  "he": "שמחת תורה",
+  "category": "holidays",
+  "book": null,
+  "summary": "Seven hakafos with the Sifrei Torah, dancing with a flag and a child on your shoulders, and finishing the Torah only to start it again at Bereishis on the very same day.",
+  "hasTorahTalePage": true,
+  "cover": "simchat-torah.webp"
+ },
+ {
+  "id": "tu-bishvat",
+  "label": "Tu B'Shvat",
+  "he": "ט״ו בשבט",
+  "category": "holidays",
+  "book": null,
+  "summary": "The new year for trees. A table of fruits from Eretz Yisrael - figs, dates, pomegranates, olives - and a child learning that a tree begins as something very small.",
+  "hasTorahTalePage": true,
+  "cover": "tu-bishvat.webp"
+ },
+ {
+  "id": "lag-baomer",
+  "label": "Lag B'Omer",
+  "he": "ל״ג בעומר",
+  "category": "holidays",
+  "book": null,
+  "summary": "Bonfires in the night, bows and arrows, and the yahrzeit of Rabi Shimon bar Yochai. A break in the sefirah where the singing comes back.",
+  "hasTorahTalePage": true,
+  "cover": "lag-baomer.webp"
+ },
+ {
+  "id": "tzom-gedaliah",
+  "label": "Tzom Gedaliah",
+  "he": "צום גדליה",
+  "category": "holidays",
+  "book": null,
+  "summary": "The fast that follows Rosh Hashanah, remembering Gedaliah ben Achikam and how much can be lost through machlokes and lashon hara.",
+  "hasTorahTalePage": true,
+  "cover": "tzom-gedaliah.webp"
+ },
+ {
+  "id": "asarah-bteves",
+  "label": "Asarah B'Teves",
+  "he": "עשרה בטבת",
+  "category": "holidays",
+  "book": null,
+  "summary": "A fast day in the depth of winter, remembering the day the siege of Yerushalayim began - the first step toward the churban.",
+  "hasTorahTalePage": true,
+  "cover": "asarah-bteves.webp"
+ },
+ {
+  "id": "taanis-esther",
+  "label": "Taanis Esther",
+  "he": "תענית אסתר",
+  "category": "holidays",
+  "book": null,
+  "summary": "The fast before Purim, remembering the three days Esther asked the Jews of Shushan to fast for her before she went in to the king uninvited.",
+  "hasTorahTalePage": true,
+  "cover": "taanis-esther.webp"
+ },
+ {
+  "id": "shiva-asar-btammuz",
+  "label": "Shiva Asar B'Tammuz",
+  "he": "שבעה עשר בתמוז",
+  "category": "holidays",
+  "book": null,
+  "summary": "The fast that opens the Three Weeks, remembering the day the walls of Yerushalayim were breached and the luchos were broken.",
+  "hasTorahTalePage": true,
+  "cover": "shiva-asar-btammuz.webp"
+ },
+ {
+  "id": "tisha-bav",
+  "label": "Tisha B'Av",
+  "he": "תשעה באב",
+  "category": "holidays",
+  "book": null,
+  "summary": "Sitting low, no shoes of leather, and Eicha read by candlelight. The saddest day of the year - and the one Chazal say Moshiach is born on.",
+  "hasTorahTalePage": true,
+  "cover": "tisha-bav.webp"
+ },
+ {
+  "id": "shemini-atzeres",
+  "label": "Shemini Atzeres",
+  "he": "שמיני עצרת",
+  "category": "holidays",
+  "book": null,
+  "summary": "The eighth day, when Hashem asks us to stay one more day. Tefillas Geshem is said, and the rain of the coming year is asked for.",
+  "hasTorahTalePage": true,
+  "cover": "shemini-atzeres.webp"
+ },
+ {
+  "id": "chol-hamoed",
+  "label": "Chol HaMoed",
+  "he": "חול המועד",
+  "category": "holidays",
+  "book": null,
+  "summary": "The middle days of Pesach and Sukkos - not quite Yom Tov and not quite an ordinary day. Family trips, the sukkah still standing, and a different kind of simcha.",
+  "hasTorahTalePage": true,
+  "cover": "chol-hamoed.webp"
+ },
+ {
+  "id": "hoshana-rabbah",
+  "label": "Hoshana Rabbah",
+  "he": "הושענא רבה",
+  "category": "holidays",
+  "book": null,
+  "summary": "The seventh day of Sukkos - seven hakafos with the lulav, the aravos beaten on the ground, and a last chance to have the year sealed for good.",
+  "hasTorahTalePage": true,
+  "cover": "hoshana-rabbah.webp"
+ },
+ {
+  "id": "purim-katan",
+  "label": "Purim Katan",
+  "he": "פורים קטן",
+  "category": "holidays",
+  "book": null,
+  "summary": "In a leap year, the fourteenth of the first Adar. No megillah and no mishloach manos, but a little more simcha and no tachanun - a small Purim before the real one.",
+  "hasTorahTalePage": true,
+  "cover": "purim-katan.webp"
+ },
+ {
+  "id": "shushan-purim",
+  "label": "Shushan Purim",
+  "he": "שושן פורים",
+  "category": "holidays",
+  "book": null,
+  "summary": "The fifteenth of Adar, when Purim is kept in Yerushalayim and other cities that were walled from the days of Yehoshua - one day later than everywhere else.",
+  "hasTorahTalePage": true,
+  "cover": "shushan-purim.webp"
+ },
+ {
+  "id": "pesach-sheni",
+  "label": "Pesach Sheni",
+  "he": "פסח שני",
+  "category": "holidays",
+  "book": null,
+  "summary": "A second chance, a month after Pesach, for anyone who could not bring the korban the first time. The day that teaches a child it is never too late.",
+  "hasTorahTalePage": true,
+  "cover": "pesach-sheni.webp"
+ },
+ {
+  "id": "tu-bav",
+  "label": "Tu B’Av",
+  "he": "ט״ו באב",
+  "category": "holidays",
+  "book": null,
+  "summary": "One of the happiest days of the year - the day the shevatim could marry one another again, when the girls of Yerushalayim went out to dance in borrowed white dresses.",
+  "hasTorahTalePage": true,
+  "cover": "tu-bav.webp"
+ },
+ {
+  "id": "yom-tov-sheni",
+  "label": "Yom Tov Sheni",
+  "he": "יום טוב שני",
+  "category": "holidays",
+  "book": null,
+  "summary": "Why families outside Eretz Yisrael keep an extra day of Yom Tov - a custom that began when the new moon was announced by fires on the mountaintops.",
+  "hasTorahTalePage": true,
+  "cover": "yom-tov-sheni.webp"
+ },
+ {
+  "id": "rosh-chodesh",
+  "label": "Rosh Chodesh",
+  "he": "ראש חודש",
+  "category": "holidays",
+  "book": null,
+  "summary": "The new moon, Hallel and Musaf, and the first mitzvah Klal Yisrael was given as a nation - a month that begins with a sliver of light in the sky.",
+  "hasTorahTalePage": true,
+  "cover": "rosh-chodesh.webp"
+ },
+ {
+  "id": "kiddush-levana",
+  "label": "Kiddush Levana",
+  "he": "קידוש לבנה",
+  "category": "life",
+  "book": null,
+  "summary": "Outside under the new moon, saying the brachah on its renewal, greeting one another shalom aleichem - a small ceremony done standing in the street.",
+  "hasTorahTalePage": true,
+  "cover": "kiddush-levana.webp"
+ },
+ {
+  "id": "shabbos-mevorchim",
+  "label": "Shabbos Mevorchim",
+  "he": "שבת מברכים",
+  "category": "holidays",
+  "book": null,
+  "summary": "The Shabbos before Rosh Chodesh, when the coming month is announced in shul and blessed - a whole kehillah asking together for a good month.",
+  "hasTorahTalePage": true,
+  "cover": "shabbos-mevorchim.webp"
+ },
+ {
+  "id": "elul-selichos",
+  "label": "Elul & Selichos",
+  "he": "אלול וסליחות",
+  "category": "holidays",
+  "book": null,
+  "summary": "The shofar every morning, selichos before dawn, and a whole month to get ready. The King is in the field, and anyone can come and speak to Him.",
+  "hasTorahTalePage": true,
+  "cover": "elul-selichos.webp"
+ },
+ {
+  "id": "aseres-yemei-teshuvah",
+  "label": "The Aseres Yemei Teshuvah",
+  "he": "עשרת ימי תשובה",
+  "category": "holidays",
+  "book": null,
+  "summary": "The ten days between Rosh Hashanah and Yom Kippur, when what was written is not yet sealed - the time to say sorry to Hashem and to people.",
+  "hasTorahTalePage": true,
+  "cover": "aseres-yemei-teshuvah.webp"
+ },
+ {
+  "id": "sefiras-haomer",
+  "label": "Counting the Omer",
+  "he": "ספירת העומר",
+  "category": "holidays",
+  "book": null,
+  "summary": "Counting forty-nine nights from Pesach to Shavuos, one at a time. A child learns that getting somewhere worth reaching is done a day at a time.",
+  "hasTorahTalePage": true,
+  "cover": "sefiras-haomer.webp"
+ },
+ {
+  "id": "three-weeks",
+  "label": "The Three Weeks",
+  "he": "בין המצרים",
+  "category": "holidays",
+  "book": null,
+  "summary": "From Shiva Asar B'Tammuz to Tisha B'Av - no music, no haircuts, and a growing quiet as the year turns toward mourning for the Beis HaMikdash.",
+  "hasTorahTalePage": true,
+  "cover": "three-weeks.webp"
+ },
+ {
+  "id": "nine-days",
+  "label": "The Nine Days",
+  "he": "תשעת הימים",
+  "category": "holidays",
+  "book": null,
+  "summary": "The first nine days of Av, when we do not eat meat or drink wine or swim, and the mourning deepens - all of it aimed at wanting the Beis HaMikdash back.",
+  "hasTorahTalePage": true,
+  "cover": "nine-days.webp"
+ },
+ {
+  "id": "tu-bishvat-seder",
+  "label": "The Tu B’Shvat Seder",
+  "he": "סדר ט״ו בשבט",
+  "category": "holidays",
+  "book": null,
+  "summary": "A table set with the shivas haminim and fruits of every kind, four kosos of wine going from white to red, and brachos said slowly on each one.",
+  "hasTorahTalePage": true,
+  "cover": "tu-bishvat-seder.webp"
+ },
+ {
+  "id": "shmita-year",
+  "label": "The Shmita Year",
+  "he": "שנת השמיטה",
+  "category": "life",
+  "book": null,
+  "summary": "Every seventh year the fields in Eretz Yisrael rest. Nothing is planted and nothing is harvested, and whatever grows belongs to everyone - a whole year of emunah.",
+  "hasTorahTalePage": true,
+  "cover": "shmita-year.webp"
+ },
+ {
+  "id": "hakhel",
+  "label": "Hakhel",
+  "he": "הקהל",
+  "category": "life",
+  "book": null,
+  "summary": "Once in seven years the entire nation - men, women and children - gathered at the Beis HaMikdash to hear the king read from the Torah.",
+  "hasTorahTalePage": true,
+  "cover": "hakhel.webp"
+ },
+ {
+  "id": "bris-milah",
+  "label": "A Bris Milah",
+  "he": "ברית מילה",
+  "category": "life",
+  "book": null,
+  "summary": "Eight days old, the Kisei shel Eliyahu ready, the sandek holding him, and the moment a Yiddishe boy is brought into the bris of Avraham Avinu - and given his name.",
+  "hasTorahTalePage": true,
+  "cover": "bris-milah.webp"
+ },
+ {
+  "id": "pidyon-haben",
+  "label": "Pidyon HaBen",
+  "he": "פדיון הבן",
+  "category": "life",
+  "book": null,
+  "summary": "Thirty days after a firstborn son is born, five silver coins are given to a kohen and the child is redeemed - a seudah, and an old mitzvah kept in a living room.",
+  "hasTorahTalePage": true,
+  "cover": "pidyon-haben.webp"
+ },
+ {
+  "id": "upsherin",
+  "label": "An Upsherin",
+  "he": "אפשערן",
+  "category": "life",
+  "book": null,
+  "summary": "A boy turns three and gets his very first haircut. Everyone takes a turn with the scissors, his peyos are left long, he puts on a kippah and tzitzis for the first time, and he licks honey off the alef-beis.",
+  "hasTorahTalePage": true,
+  "cover": "upsherin.webp"
+ },
+ {
+  "id": "first-day-cheder",
+  "label": "First Day in Cheder",
+  "he": "היום הראשון בחיידר",
+  "category": "life",
+  "book": null,
+  "summary": "Wrapped in a tallis and carried to cheder, honey on the aleph-beis so the first taste of learning is sweet, and a candy dropped from above for a boy who reads his first letter.",
+  "hasTorahTalePage": true,
+  "cover": "first-day-cheder.webp"
+ },
+ {
+  "id": "bar-mitzvah",
+  "label": "A Bar Mitzvah",
+  "he": "בר מצווה",
+  "category": "life",
+  "book": null,
+  "summary": "Thirteen years old, tefillin every morning, and standing at the bimah to lein and say the brachos - the day a boy becomes responsible for the mitzvos himself.",
+  "hasTorahTalePage": true,
+  "cover": "bar-mitzvah.webp"
+ },
+ {
+  "id": "bas-mitzvah",
+  "label": "A Bas Mitzvah",
+  "he": "בת מצווה",
+  "category": "life",
+  "book": null,
+  "summary": "Twelve years old, and a girl takes on the mitzvos in her own right - a seudah, words of Torah, and the women of the family around her.",
+  "hasTorahTalePage": true,
+  "cover": "bas-mitzvah.webp"
+ },
+ {
+  "id": "siyum",
+  "label": "Making a Siyum",
+  "he": "עריכת סיום",
+  "category": "life",
+  "book": null,
+  "summary": "Finishing a mesechta or a sefer - the hadran said out loud, a seudah, and the habit of marking what you have finished before starting the next one.",
+  "hasTorahTalePage": true,
+  "cover": "siyum.webp"
+ },
+ {
+  "id": "chasunah",
+  "label": "A Chasunah",
+  "he": "חתונה",
+  "category": "life",
+  "book": null,
+  "summary": "A chupah under the stars, the kesubah read, seven brachos, a glass broken, and a whole kehillah dancing to make the chosson and kallah happy.",
+  "hasTorahTalePage": true,
+  "cover": "chasunah.webp"
+ },
+ {
+  "id": "sheva-brachos",
+  "label": "Sheva Brachos",
+  "he": "שבע ברכות",
+  "category": "life",
+  "book": null,
+  "summary": "Seven nights of seudos after a chasunah, each with the seven brachos said again - a week of friends and family keeping the simcha going.",
+  "hasTorahTalePage": true,
+  "cover": "sheva-brachos.webp"
+ },
+ {
+  "id": "chanukas-habayis",
+  "label": "A Chanukas HaBayis",
+  "he": "חנוכת הבית",
+  "category": "life",
+  "book": null,
+  "summary": "A mezuzah fixed on the doorpost of a new home, words of Torah said in it for the first time, and a seudah to bring brachah into the walls.",
+  "hasTorahTalePage": true,
+  "cover": "chanukas-habayis.webp"
+ },
+ {
+  "id": "hachnasas-sefer-torah",
+  "label": "Hachnasas Sefer Torah",
+  "he": "הכנסת ספר תורה",
+  "category": "life",
+  "book": null,
+  "summary": "A new Sefer Torah carried through the streets under a chupah, with music and dancing and candles, all the way to its new aron kodesh.",
+  "hasTorahTalePage": true,
+  "cover": "hachnasas-sefer-torah.webp"
+ },
+ {
+  "id": "kiddush-hachodesh-simcha",
+  "label": "A Shalom Zachor",
+  "he": "שלום זכר",
+  "category": "life",
+  "book": null,
+  "summary": "The Friday night after a baby boy is born - neighbours dropping in, chickpeas and cake on the table, and words of Torah said over a new little life.",
+  "hasTorahTalePage": true,
+  "cover": "kiddush-hachodesh-simcha.webp"
+ },
+ {
+  "id": "melava-malka",
+  "label": "Melava Malka",
+  "he": "מלווה מלכה",
+  "category": "life",
+  "book": null,
+  "summary": "The meal that escorts the Shabbos Queen out - after havdalah, with songs about Eliyahu HaNavi, holding on to Shabbos for one more hour.",
+  "hasTorahTalePage": true,
+  "cover": "melava-malka.webp"
+ },
+ {
+  "id": "seudas-hodaah",
+  "label": "A Seudas Hoda’ah",
+  "he": "סעודת הודאה",
+  "category": "life",
+  "book": null,
+  "summary": "A meal made to say thank you after something went right - a recovery, a safe return, a danger passed. Gratitude with a table around it.",
+  "hasTorahTalePage": true,
+  "cover": "seudas-hodaah.webp"
+ },
+ {
+  "id": "edu-hakaras-hatov",
+  "label": "Saying Thank You",
+  "he": "אומרים תודה",
+  "category": "middos",
+  "book": null,
+  "summary": "Noticing what someone did for you and saying it out loud. A child learns that thank you is not just manners - it is seeing clearly.",
+  "hasTorahTalePage": true,
+  "cover": "edu-hakaras-hatov.webp"
+ },
+ {
+  "id": "edu-chesed",
+  "label": "A Helping Hand",
+  "he": "יד עוזרת",
+  "category": "middos",
+  "book": null,
+  "summary": "Carrying the bags, holding the door, sitting with someone who is alone. Chesed is small and it is constant, and anyone can do it today.",
+  "hasTorahTalePage": true,
+  "cover": "edu-chesed.webp"
+ },
+ {
+  "id": "edu-emes",
+  "label": "Always Telling the Truth",
+  "he": "תמיד אומרים אמת",
+  "category": "middos",
+  "book": null,
+  "summary": "Telling the truth even when a small lie would be easier and nobody would ever know. Hashem's seal is emes, and a child learns why it is worth the hard moment.",
+  "hasTorahTalePage": true,
+  "cover": "edu-emes.webp"
+ },
+ {
+  "id": "edu-kibud",
+  "label": "Honoring Parents",
+  "he": "כיבוד אב ואם",
+  "category": "middos",
+  "book": null,
+  "summary": "Getting up when a parent walks in, doing what you were asked the first time, speaking to Tatty and Mommy the way you would speak to a king. One of the Aseres HaDibros, kept at home.",
+  "hasTorahTalePage": true,
+  "cover": "edu-kibud.webp"
+ },
+ {
+  "id": "edu-savlanus",
+  "label": "Waiting Patiently",
+  "he": "מחכים בסבלנות",
+  "category": "middos",
+  "book": null,
+  "summary": "Waiting your turn, waiting for the food, waiting to be answered - without whining and without grabbing. Patience is a middah, and it is learned by practising.",
+  "hasTorahTalePage": true,
+  "cover": "edu-savlanus.webp"
+ },
+ {
+  "id": "edu-shalom",
+  "label": "Making Peace with Friends",
+  "he": "עושים שלום",
+  "category": "middos",
+  "book": null,
+  "summary": "Two friends, one argument, and someone who decides that being right matters less than being friends. Aharon HaKohen chased after shalom, and so can a child.",
+  "hasTorahTalePage": true,
+  "cover": "edu-shalom.webp"
+ },
+ {
+  "id": "edu-tzedakah",
+  "label": "Giving Tzedakah",
+  "he": "נתינת צדקה",
+  "category": "middos",
+  "book": null,
+  "summary": "A coin in the pushka before the licht are lit, and a child who understands that what they have was given to them so that they could give some of it away.",
+  "hasTorahTalePage": true,
+  "cover": "edu-tzedakah.webp"
+ },
+ {
+  "id": "edu-sharing",
+  "label": "Learning to Share",
+  "he": "לומדים לחלוק",
+  "category": "middos",
+  "book": null,
+  "summary": "The hardest toy to share is the favorite one. A story about giving someone else a turn - and finding out that the game is better with two.",
+  "hasTorahTalePage": true,
+  "cover": "edu-sharing.webp"
+ },
+ {
+  "id": "edu-slichah",
+  "label": "Saying I'm Sorry",
+  "he": "אומרים סליחה",
+  "category": "middos",
+  "book": null,
+  "summary": "Saying sorry properly - not mumbled, not with a but. The moment a child learns that admitting it is what makes it right again.",
+  "hasTorahTalePage": true,
+  "cover": "edu-slichah.webp"
+ },
+ {
+  "id": "edu-derech-eretz",
+  "label": "Good Middos & Manners",
+  "he": "מידות טובות ודרך ארץ",
+  "category": "middos",
+  "book": null,
+  "summary": "Please, thank you, good morning, letting someone pass. Chazal say derech eretz came before the Torah - the way a Yiddishe child is known.",
+  "hasTorahTalePage": true,
+  "cover": "edu-derech-eretz.webp"
+ },
+ {
+  "id": "mitzvah-lashon-hara",
+  "label": "Guarding My Tongue",
+  "he": "שמירת הלשון",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Words can help and words can wreck. The Chofetz Chaim's mitzvah, brought down to a playground: what to say, what to leave unsaid, and what to walk away from.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-lashon-hara.webp"
+ },
+ {
+  "id": "mitzvah-ahavas-yisroel",
+  "label": "Loving Every Yid",
+  "he": "אהבת ישראל",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Loving every single Yid, the one you know and the one you do not, the one just like you and the one nothing like you. Rabi Akiva called it a klal gadol baTorah.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-ahavas-yisroel.webp"
+ },
+ {
+  "id": "mitzvah-bikur-cholim",
+  "label": "Visiting Someone Sick",
+  "he": "ביקור חולים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "A visit to someone who is sick - a picture drawn, a chair pulled close, a tefillah said with their name in it. Hashem Himself visited Avraham Avinu.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-bikur-cholim.webp"
+ },
+ {
+  "id": "mitzvah-hachnasas-orchim",
+  "label": "Welcoming Guests",
+  "he": "הכנסת אורחים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The door open, a place set, and a guest treated like the most important person in the house. Avraham Avinu ran to his visitors in the heat of the day.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-hachnasas-orchim.webp"
+ },
+ {
+  "id": "mitzvah-kibud-zekeinim",
+  "label": "Standing Up for an Older Person",
+  "he": "מפני שיבה תקום",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Standing up when an older person comes in. A whole mitzvah in one small movement, and a child learns to see the years someone is carrying.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-kibud-zekeinim.webp"
+ },
+ {
+  "id": "mitzvah-lo-lignov",
+  "label": "Never Taking What Is Not Mine",
+  "he": "לא תגנוב",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Not taking what isn't yours - not the big things and not the small ones, not from a shop and not from a brother. One of the Aseres HaDibros.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-lo-lignov.webp"
+ },
+ {
+  "id": "mitzvah-hashavas-aveidah",
+  "label": "Returning a Lost Object",
+  "he": "השבת אבידה",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Finding something that belongs to someone else and giving it back - putting up a sign, asking around, holding it until the owner is found.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-hashavas-aveidah.webp"
+ },
+ {
+  "id": "mitzvah-tzaar-baalei-chaim",
+  "label": "Being Kind to Animals",
+  "he": "צער בעלי חיים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Feeding the animal before you eat, never causing a creature pain for nothing. Hashem's rachmanus reaches every living thing He made.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-tzaar-baalei-chaim.webp"
+ },
+ {
+  "id": "mitzvah-shiluach-haken",
+  "label": "Shiluach HaKen",
+  "he": "שילוח הקן",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Sending away the mother bird before taking the eggs - a small, strange mitzvah with one of the biggest brachos in the Torah attached to it.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-shiluach-haken.webp"
+ },
+ {
+  "id": "mitzvah-lo-lehalbin",
+  "label": "Never Embarrassing a Friend",
+  "he": "לא להלבין פנים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Never making someone go red in front of others. Chazal speak about it in the strongest words there are - a joke that costs someone their face costs too much.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-lo-lehalbin.webp"
+ },
+ {
+  "id": "mitzvah-dan-lkaf-zchus",
+  "label": "Judging Favourably",
+  "he": "דן לכף זכות",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "He didn't answer, she didn't wait, they didn't invite you - and there was a reason you couldn't see. Judging favourably, before deciding what happened.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-dan-lkaf-zchus.webp"
+ },
+ {
+  "id": "mitzvah-vaadata",
+  "label": "Keeping a Promise",
+  "he": "מוצא שפתיך תשמור",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Saying you will and then doing it. A Yid's word is worth something, and a child learns that a promise is not a thing to make lightly.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-vaadata.webp"
+ },
+ {
+  "id": "mitzvah-modeh-ani",
+  "label": "Modeh Ani",
+  "he": "מודה אני",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The very first words of the day, said before getting out of bed - thank You for giving me back my neshamah. Twelve words, every morning of a life.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-modeh-ani.webp"
+ },
+ {
+  "id": "mitzvah-netilas-yadayim",
+  "label": "Netilas Yadayim",
+  "he": "נטילת ידיים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The washing cup by the bed, three times on each hand, and again at the table before bread, and the brachah - starting the day and the bread with clean hands.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-netilas-yadayim.webp"
+ },
+ {
+  "id": "mitzvah-brachos",
+  "label": "Making a Bracha",
+  "he": "ברכות הנהנין",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Nothing goes in the mouth until Hashem is thanked for it. A child learns which brachah belongs to which food, and why the food tastes different afterwards.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-brachos.webp"
+ },
+ {
+  "id": "mitzvah-bentching",
+  "label": "Bentching After a Meal",
+  "he": "ברכת המזון",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Bentching after eating bread - the one brachah written in the Torah itself. Saying thank You when you are already full, which is the hard time to remember.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-bentching.webp"
+ },
+ {
+  "id": "mitzvah-shema",
+  "label": "Saying Shema",
+  "he": "קריאת שמע",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Eyes covered, six words said slowly, and the last thing a child says at night. The declaration a Yid has carried for three thousand years.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-shema.webp"
+ },
+ {
+  "id": "mitzvah-davening",
+  "label": "Davening to Hashem",
+  "he": "תפילה",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Talking to Hashem - in a siddur and in your own words, for yourself and for someone else. A child learns that He is listening, always.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-davening.webp"
+ },
+ {
+  "id": "mitzvah-amen",
+  "label": "Answering Amen",
+  "he": "עניית אמן",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Answering amen to someone else's brachah - a whole mitzvah for saying one word at the right moment, and meaning it.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-amen.webp"
+ },
+ {
+  "id": "mitzvah-mezuzah",
+  "label": "The Mezuzah on Our Door",
+  "he": "מזוזה",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The parchment in the doorpost with Shema written on it, touched on the way in and on the way out - what makes a house a Yiddishe home.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-mezuzah.webp"
+ },
+ {
+  "id": "mitzvah-tzitzis",
+  "label": "Wearing Tzitzis",
+  "he": "ציצית",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Four corners, eight strings, five knots, and a reminder tied on all day long. A child counts them and remembers what they are for.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-tzitzis.webp"
+ },
+ {
+  "id": "mitzvah-tefillin",
+  "label": "Putting on Tefillin",
+  "he": "תפילין",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The shel yad by the heart and the shel rosh on the head, wrapped seven times around the arm - the mitzvah a boy grows into at thirteen.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-tefillin.webp"
+ },
+ {
+  "id": "mitzvah-kippah",
+  "label": "Wearing a Yarmulke",
+  "he": "כיפה",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The covering on a Yiddishe head that says there is Someone above me. The first thing on in the morning, and it does not come off.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-kippah.webp"
+ },
+ {
+  "id": "mitzvah-talmud-torah",
+  "label": "Learning Torah Every Day",
+  "he": "תלמוד תורה",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Learning every single day, even a little - a passuk, a Mishnah, a Chumash with Tatty. The mitzvah that is worth all of them together.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-talmud-torah.webp"
+ },
+ {
+  "id": "mitzvah-kavod-sefarim",
+  "label": "Respecting Holy Seforim",
+  "he": "כבוד ספרים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Not putting a sefer on the floor, kissing it if it falls, keeping it the right way up on the shelf. Respect a child can see and copy.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-kavod-sefarim.webp"
+ },
+ {
+  "id": "mitzvah-kavod-beis-knesses",
+  "label": "Behaving in Shul",
+  "he": "כבוד בית הכנסת",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "How a Yiddishe child behaves in shul - where to sit, when to answer, when not to run. A mikdash me'at, and a house with rules of its own.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-kavod-beis-knesses.webp"
+ },
+ {
+  "id": "mitzvah-yiras-shamayim",
+  "label": "Hashem Sees Everything",
+  "he": "יראת שמים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Nobody is watching, and someone is. A child learns that Hashem sees in the dark and in the empty room - not to be frightened, but to be honest.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-yiras-shamayim.webp"
+ },
+ {
+  "id": "mitzvah-bitachon",
+  "label": "Trusting in Hashem",
+  "he": "ביטחון",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Leaning on Hashem when things are not going the way you hoped. Do your part, and then trust Him with the rest.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-bitachon.webp"
+ },
+ {
+  "id": "mitzvah-brachos-nissim",
+  "label": "A Bracha on a Rainbow",
+  "he": "ברכות הראייה",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The brachos for the world's big moments - a rainbow, thunder, the ocean, a tree in blossom. Learning to stop and notice instead of walking past.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-brachos-nissim.webp"
+ },
+ {
+  "id": "mitzvah-birkas-hagomel",
+  "label": "Birkas HaGomel",
+  "he": "ברכת הגומל",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The brachah said in shul after coming through something dangerous - a journey, an illness, a rescue - thanking Hashem in front of everyone.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-birkas-hagomel.webp"
+ },
+ {
+  "id": "mitzvah-shabbos-licht",
+  "label": "Lighting the Shabbos Licht",
+  "he": "הדלקת נרות שבת",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The candles lit before sunset, hands over the eyes, and the quiet tefillah a mother says. The moment the whole house changes.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-shabbos-licht.webp"
+ },
+ {
+  "id": "mitzvah-kiddush",
+  "label": "Making Kiddush",
+  "he": "קידוש",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The becher filled to the brim, everyone standing, and Shabbos said out loud over the wine - the mitzvah of remembering the day in words.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-kiddush.webp"
+ },
+ {
+  "id": "mitzvah-havdalah",
+  "label": "Havdalah",
+  "he": "הבדלה",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Wine, besamim, a braided candle held high, and the line drawn between Shabbos and the rest of the week - said in the dark, on Motzei Shabbos.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-havdalah.webp"
+ },
+ {
+  "id": "mitzvah-kashrus",
+  "label": "Keeping Kosher",
+  "he": "כשרות",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "What a Yiddishe child may eat and what they may not - checking the hechsher, keeping meat and milk apart, and the reason it is worth it.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-kashrus.webp"
+ },
+ {
+  "id": "mitzvah-challah",
+  "label": "Taking Challah",
+  "he": "הפרשת חלה",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "A piece of dough taken off before the challah is baked and separated with a brachah - a mitzvah kept in a kitchen on Erev Shabbos.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-challah.webp"
+ },
+ {
+  "id": "mitzvah-maaser",
+  "label": "Giving Maaser",
+  "he": "מעשר כספים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "A tenth of what you get, set aside for tzedakah - even a child with pocket money. Learning that giving is a cheshbon, not a mood.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-maaser.webp"
+ },
+ {
+  "id": "mitzvah-shmiras-shabbos",
+  "label": "Guarding Shabbos",
+  "he": "שמירת שבת",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The melachos, the preparation before, and the things a child learns not to do for one whole day - keeping Shabbos rather than only enjoying it.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-shmiras-shabbos.webp"
+ },
+ {
+  "id": "mitzvah-tzniyus",
+  "label": "Dressing B’Tzniyus",
+  "he": "צניעות",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Dressing and behaving b'tzniyus - the quiet dignity of a Yiddishe child who knows that what is precious is not put on display.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-tzniyus.webp"
+ },
+ {
+  "id": "mitzvah-ahavas-hashem",
+  "label": "Loving Hashem",
+  "he": "אהבת השם",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "V'ahavta es Hashem Elokecha - loving Hashem with your whole heart. A mitzvah of the heart, and a child learning what that even means.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-ahavas-hashem.webp"
+ },
+ {
+  "id": "mitzvah-korbanos",
+  "label": "The Korbanos We Are Waiting For",
+  "he": "קרבנות",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "What was brought in the Beis HaMikdash, why it stopped, and what we are asking for three times a day when we ask for it back.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-korbanos.webp"
+ },
+ {
+  "id": "mitzvah-aliyah-laregel",
+  "label": "Aliyah LaRegel",
+  "he": "עלייה לרגל",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "Three times a year the whole nation went up to Yerushalayim for Yom Tov - the roads full, the courtyard packed, and everyone singing on the way.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-aliyah-laregel.webp"
+ },
+ {
+  "id": "mitzvah-bikurim",
+  "label": "Bringing the Bikurim",
+  "he": "ביכורים",
+  "category": "mitzvot",
+  "book": null,
+  "summary": "The first ripe fruits carried up to Yerushalayim in a basket, with music and a declaration said out loud - giving Hashem the very first, not the leftovers.",
+  "hasTorahTalePage": true,
+  "cover": "mitzvah-bikurim.webp"
+ },
+ {
+  "id": "rabban-yochanan-ben-zakkai",
+  "label": "Rabban Yochanan ben Zakkai",
+  "he": "רבן יוחנן בן זכאי",
+  "category": "tzadikim",
+  "book": "Tannaim",
+  "summary": "Carried out of a besieged Yerushalayim in a coffin to ask the Roman general for one thing - Yavneh and its chachamim. The Beis HaMikdash fell, and Torah survived.",
+  "hasTorahTalePage": true,
+  "cover": "rabban-yochanan-ben-zakkai.webp"
+ },
+ {
+  "id": "rabban-gamliel-yavneh",
+  "label": "Rabban Gamliel of Yavneh",
+  "he": "רבן גמליאל דיבנה",
+  "category": "tzadikim",
+  "book": "Tannaim",
+  "summary": "The nasi who rebuilt after the churban - fixing the order of the tefillos and holding a scattered nation together around one beis midrash in Yavneh.",
+  "hasTorahTalePage": true,
+  "cover": "rabban-gamliel-yavneh.webp"
+ },
+ {
+  "id": "rabbi-akiva",
+  "label": "Rabbi Akiva",
+  "he": "רבי עקיבא",
+  "category": "tzadikim",
+  "book": "Tannaim",
+  "summary": "A shepherd who could not read a letter at forty, sent to learn by his wife Rachel, and came home the rebbi of twenty-four thousand talmidim. The water that carved the stone.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-akiva.webp"
+ },
+ {
+  "id": "rabbi-yishmael",
+  "label": "Rabbi Yishmael ben Elisha",
+  "he": "רבי ישמעאל בן אלישע",
+  "category": "tzadikim",
+  "book": "Tannaim",
+  "summary": "A kohen and one of the great Tannaim, who gave us the thirteen middos the Torah is darshened with - said every morning before davening.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-yishmael.webp"
+ },
+ {
+  "id": "rabbi-meir",
+  "label": "Rabbi Meir",
+  "he": "רבי מאיר",
+  "category": "tzadikim",
+  "book": "Tannaim",
+  "summary": "The talmid of Rabi Akiva whose reasons were too deep for his own generation to rule by, a sofer who wrote sifrei Torah, and the one whose halachos became stam Mishnah.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-meir.webp"
+ },
+ {
+  "id": "rabbi-shimon-bar-yochai",
+  "label": "Rabbi Shimon bar Yochai",
+  "he": "רבי שמעון בר יוחאי",
+  "category": "tzadikim",
+  "book": "Tannaim",
+  "summary": "Thirteen years hidden in a cave with his son, learning Torah with a carob tree and a spring outside. His yahrzeit is Lag BaOmer.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-shimon-bar-yochai.webp"
+ },
+ {
+  "id": "rabbi-yehuda-hanasi",
+  "label": "Rabbi Yehuda HaNasi",
+  "he": "רבי יהודה הנשיא",
+  "category": "tzadikim",
+  "book": "Tannaim",
+  "summary": "Rebbi - who saw the Torah shebe'al peh in danger of being forgotten and wrote down the Mishnah, six sedarim that the whole Gemara is built on.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-yehuda-hanasi.webp"
+ },
+ {
+  "id": "rav",
+  "label": "Rav",
+  "he": "רב",
+  "category": "tzadikim",
+  "book": "Amoraim",
+  "summary": "The Amora who came back from Eretz Yisrael to Bavel and founded the yeshivah of Sura, teaching Torah to a country that had almost none.",
+  "hasTorahTalePage": true,
+  "cover": "rav.webp"
+ },
+ {
+  "id": "shmuel-amora",
+  "label": "Shmuel",
+  "he": "שמואל",
+  "category": "tzadikim",
+  "book": "Amoraim",
+  "summary": "Rosh yeshivah in Nehardea, a doctor and an astronomer, who taught dina d'malchusa dina - and argued with Rav on nearly every page.",
+  "hasTorahTalePage": true,
+  "cover": "shmuel-amora.webp"
+ },
+ {
+  "id": "rav-huna",
+  "label": "Rav Huna",
+  "he": "רב הונא",
+  "category": "tzadikim",
+  "book": "Amoraim",
+  "summary": "Rav's talmid, who grew the yeshivah of Sura to eight hundred talmidim, and was known for checking the walls of the town himself so nobody's house would fall in.",
+  "hasTorahTalePage": true,
+  "cover": "rav-huna.webp"
+ },
+ {
+  "id": "rava",
+  "label": "Rava",
+  "he": "רבא",
+  "category": "tzadikim",
+  "book": "Amoraim",
+  "summary": "The Amora of Machoza whose sharpness fills the Gemara - almost every machlokes with Abaye is decided like him, and his questions are still asked in yeshivos today.",
+  "hasTorahTalePage": true,
+  "cover": "rava.webp"
+ },
+ {
+  "id": "rav-ashi",
+  "label": "Rav Ashi",
+  "he": "רב אשי",
+  "category": "tzadikim",
+  "book": "Amoraim",
+  "summary": "Rosh yeshivah of Sura for close to sixty years, who began gathering the whole Torah shebe'al peh into the Talmud Bavli we learn from.",
+  "hasTorahTalePage": true,
+  "cover": "rav-ashi.webp"
+ },
+ {
+  "id": "ravina",
+  "label": "Ravina",
+  "he": "רבינא",
+  "category": "tzadikim",
+  "book": "Amoraim",
+  "summary": "Who finished with Rav Ashi what Rav Ashi began - the sealing of the Gemara, the end of the era of the Amoraim.",
+  "hasTorahTalePage": true,
+  "cover": "ravina.webp"
+ },
+ {
+  "id": "rav-yehudai-gaon",
+  "label": "Rav Yehudai Gaon",
+  "he": "רב יהודאי גאון",
+  "category": "tzadikim",
+  "book": "Geonim",
+  "summary": "A Gaon of Sura, blind in his later years, whose Halachos Pesukos was among the first attempts to write out plain psak from the Gemara.",
+  "hasTorahTalePage": true,
+  "cover": "rav-yehudai-gaon.webp"
+ },
+ {
+  "id": "rav-amram-gaon",
+  "label": "Rav Amram Gaon",
+  "he": "רב עמרם גאון",
+  "category": "tzadikim",
+  "book": "Geonim",
+  "summary": "Asked by a faraway kehillah how to daven, he wrote out the entire order of the tefillos - the first siddur, and the grandfather of every siddur since.",
+  "hasTorahTalePage": true,
+  "cover": "rav-amram-gaon.webp"
+ },
+ {
+  "id": "rav-saadia-gaon",
+  "label": "Rav Saadia Gaon",
+  "he": "רב סעדיה גאון",
+  "category": "tzadikim",
+  "book": "Geonim",
+  "summary": "Gaon of Sura, who translated the Torah into Arabic, wrote Emunos V'Deos, and stood alone against the Karaim when it cost him everything.",
+  "hasTorahTalePage": true,
+  "cover": "rav-saadia-gaon.webp"
+ },
+ {
+  "id": "rabbeinu-gershom",
+  "label": "Rabbeinu Gershom Me'or HaGolah",
+  "he": "רבנו גרשום מאור הגולה",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Me'or HaGolah - the light of the exile. The takanos that carry his name still shape Yiddishe life, including not reading someone else's letter.",
+  "hasTorahTalePage": true,
+  "cover": "rabbeinu-gershom.webp"
+ },
+ {
+  "id": "rabbeinu-chananel",
+  "label": "Rabbeinu Chananel",
+  "he": "רבנו חננאל",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Of Kairouan, whose short clear pirush runs alongside the Gemara on the page, explaining the sugya from beginning to end before arguing about it.",
+  "hasTorahTalePage": true,
+  "cover": "rabbeinu-chananel.webp"
+ },
+ {
+  "id": "the-rif",
+  "label": "The Rif",
+  "he": "הרי״ף",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Rabbi Yitzchak Alfasi, who wrote the Gemara over again with only the halachah left in - the little Talmud that the Rosh and the Shulchan Aruch are built on.",
+  "hasTorahTalePage": true,
+  "cover": "the-rif.webp"
+ },
+ {
+  "id": "rashi",
+  "label": "Rashi",
+  "he": "רש״י",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Rabbi Shlomo Yitzchaki of Troyes, a vintner who wrote the pirush on Chumash and Shas that every child opens first and no one ever finishes.",
+  "hasTorahTalePage": true,
+  "cover": "rashi.webp"
+ },
+ {
+  "id": "rabbeinu-tam",
+  "label": "Rabbeinu Tam",
+  "he": "רבנו תם",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Rashi's grandson, the greatest of the Baalei HaTosafos, who argued with his own zeide's pshat - and whose tefillin are worn to this day.",
+  "hasTorahTalePage": true,
+  "cover": "rabbeinu-tam.webp"
+ },
+ {
+  "id": "the-rambam",
+  "label": "The Rambam",
+  "he": "הרמב״ם",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Rabbi Moshe ben Maimon - doctor to a sultan by day, and the author of the Yad HaChazakah, the entire Torah arranged, and the Moreh Nevuchim.",
+  "hasTorahTalePage": true,
+  "cover": "the-rambam.webp"
+ },
+ {
+  "id": "the-ramban",
+  "label": "The Ramban",
+  "he": "הרמב״ן",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Rabbi Moshe ben Nachman of Girona - Chumash pirush, Talmud, kabbalah, and the disputation he was forced into before a king, which drove him to Eretz Yisrael at seventy.",
+  "hasTorahTalePage": true,
+  "cover": "the-ramban.webp"
+ },
+ {
+  "id": "the-rashba",
+  "label": "The Rashba",
+  "he": "הרשב״א",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Rabbi Shlomo ben Aderes of Barcelona, whose thousands of teshuvos answered questions from kehillos across the world for forty years.",
+  "hasTorahTalePage": true,
+  "cover": "the-rashba.webp"
+ },
+ {
+  "id": "the-rosh",
+  "label": "The Rosh",
+  "he": "הרא״ש",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Rabbi Asher ben Yechiel, who fled Ashkenaz for Spain and carried the Tosafos with him - his psakim became one of the three pillars of the Shulchan Aruch.",
+  "hasTorahTalePage": true,
+  "cover": "the-rosh.webp"
+ },
+ {
+  "id": "baal-haturim",
+  "label": "Rabbi Yaakov, Baal HaTurim",
+  "he": "רבי יעקב בעל הטורים",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Rabbi Yaakov, the Rosh's son, who divided all of halachah into four turim - Orach Chaim, Yoreh Deah, Even HaEzer, Choshen Mishpat - the shape halachah still has.",
+  "hasTorahTalePage": true,
+  "cover": "baal-haturim.webp"
+ },
+ {
+  "id": "rabbi-yosef-albo",
+  "label": "Rabbi Yosef Albo",
+  "he": "רבי יוסף אלבו",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "Author of the Sefer HaIkkarim, who stood up for the Torah in the Disputation of Tortosa and wrote about the foundations of emunah for a generation under pressure.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-yosef-albo.webp"
+ },
+ {
+  "id": "abarbanel",
+  "label": "Rabbi Yitzchak Abarbanel",
+  "he": "רבי יצחק אברבנאל",
+  "category": "tzadikim",
+  "book": "Rishonim",
+  "summary": "A finance minister to kings who chose exile with his people in 1492 rather than stay, and wrote his great pirush on Tanach on the road.",
+  "hasTorahTalePage": true,
+  "cover": "abarbanel.webp"
+ },
+ {
+  "id": "rabbi-yosef-karo",
+  "label": "Rabbi Yosef Karo",
+  "he": "רבי יוסף קארו",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "The Beis Yosef, who weighed the Rif, the Rambam and the Rosh and then wrote the Shulchan Aruch - the set table the whole Jewish world eats from.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-yosef-karo.webp"
+ },
+ {
+  "id": "the-rema",
+  "label": "The Rema",
+  "he": "הרמ״א",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Moshe Isserles of Krakow, who spread the mappah - the tablecloth - over the Shulchan Aruch, adding the minhagim of Ashkenaz so it could be everyone's.",
+  "hasTorahTalePage": true,
+  "cover": "the-rema.webp"
+ },
+ {
+  "id": "the-arizal",
+  "label": "The Arizal",
+  "he": "האר״י הקדוש",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Yitzchak Luria of Tzfas, who taught for only a few years and changed how Klal Yisrael understands the world - and gave us Kabbalas Shabbos in the fields.",
+  "hasTorahTalePage": true,
+  "cover": "the-arizal.webp"
+ },
+ {
+  "id": "the-maharal",
+  "label": "The Maharal of Prague",
+  "he": "המהר״ל מפראג",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Yehudah Loew of Prague - Gur Aryeh, Nesivos Olam, and a whole way of thinking about Torah; the Golem story is the smallest thing about him.",
+  "hasTorahTalePage": true,
+  "cover": "the-maharal.webp"
+ },
+ {
+  "id": "rabbi-chaim-vital",
+  "label": "Rabbi Chaim Vital",
+  "he": "רבי חיים ויטאל",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "The talmid who wrote down the Arizal's Torah - without him, almost nothing of it would have reached us.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-chaim-vital.webp"
+ },
+ {
+  "id": "the-shlah",
+  "label": "The Shelah HaKadosh",
+  "he": "השל״ה הקדוש",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Yeshayah Horowitz, whose Shnei Luchos HaBris joins halachah, mussar and kabbalah, and who left Europe to be a rav in Yerushalayim.",
+  "hasTorahTalePage": true,
+  "cover": "the-shlah.webp"
+ },
+ {
+  "id": "the-taz",
+  "label": "The Taz",
+  "he": "הט״ז",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Dovid HaLevi Segal, whose Turei Zahav sits on the page of the Shulchan Aruch and has been argued with in every beis midrash since.",
+  "hasTorahTalePage": true,
+  "cover": "the-taz.webp"
+ },
+ {
+  "id": "the-shach",
+  "label": "The Shach",
+  "he": "הש״ך",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Shabsai HaKohen, who wrote the Sifsei Kohen at twenty-four, and lived through the gezeiros of Tach V'Tat that he also wrote about.",
+  "hasTorahTalePage": true,
+  "cover": "the-shach.webp"
+ },
+ {
+  "id": "baal-shem-tov",
+  "label": "The Baal Shem Tov",
+  "he": "הבעל שם טוב",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Yisrael ben Eliezer, who taught that a simple Yid's tefillah reaches as high as a scholar's, and that Hashem is found everywhere. The beginning of Chassidus.",
+  "hasTorahTalePage": true,
+  "cover": "baal-shem-tov.webp"
+ },
+ {
+  "id": "the-vilna-gaon",
+  "label": "The Vilna Gaon",
+  "he": "הגאון מווילנא",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "The Gra - who learned nearly every hour of his life, knew all of Torah, and set the derech of learning that the Litvishe yeshivos still follow.",
+  "hasTorahTalePage": true,
+  "cover": "the-vilna-gaon.webp"
+ },
+ {
+  "id": "the-maggid-mezritch",
+  "label": "The Maggid of Mezritch",
+  "he": "המגיד ממזריטש",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Dov Ber, the Baal Shem Tov's successor, who turned a small circle into a movement by sending his talmidim out to every corner of Eastern Europe.",
+  "hasTorahTalePage": true,
+  "cover": "the-maggid-mezritch.webp"
+ },
+ {
+  "id": "baal-hatanya",
+  "label": "Rabbi Shneur Zalman of Liadi",
+  "he": "רבי שניאור זלמן מלאדי",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Shneur Zalman of Liadi, author of the Tanya and the Shulchan Aruch HaRav, who was jailed in Petersburg and freed on Yud Tes Kislev.",
+  "hasTorahTalePage": true,
+  "cover": "baal-hatanya.webp"
+ },
+ {
+  "id": "rabbi-chaim-volozhin",
+  "label": "Rabbi Chaim of Volozhin",
+  "he": "רבי חיים מוולוז׳ין",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "The Gra's talmid, who founded the yeshivah of Volozhin - the mother of all yeshivos - and wrote Nefesh HaChaim.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-chaim-volozhin.webp"
+ },
+ {
+  "id": "rabbi-nachman-breslov",
+  "label": "Rabbi Nachman of Breslov",
+  "he": "רבי נחמן מברסלב",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "The Baal Shem Tov's great-grandson, who taught hisbodedus - talking to Hashem in your own words - and told stories that are still being unpacked.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-nachman-breslov.webp"
+ },
+ {
+  "id": "chasam-sofer",
+  "label": "The Chasam Sofer",
+  "he": "החתם סופר",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Moshe Sofer of Pressburg, whose yeshivah held Hungary steady in a changing century, and whose talmidim carried his derech everywhere.",
+  "hasTorahTalePage": true,
+  "cover": "chasam-sofer.webp"
+ },
+ {
+  "id": "rabbi-yisrael-salanter",
+  "label": "Rabbi Yisrael Salanter",
+  "he": "רבי ישראל מסלנט",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Who founded the mussar movement - learning not only what to do but who to become - and once said the material needs of another are your own spiritual work.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-yisrael-salanter.webp"
+ },
+ {
+  "id": "the-netziv",
+  "label": "The Netziv of Volozhin",
+  "he": "הנצי״ב מוולוז׳ין",
+  "category": "tzadikim",
+  "book": "Acharonim",
+  "summary": "Rabbi Naftali Tzvi Yehudah Berlin, rosh yeshivah of Volozhin for forty years, author of the Haamek Davar, who closed the yeshivah rather than cut its limud.",
+  "hasTorahTalePage": true,
+  "cover": "the-netziv.webp"
+ },
+ {
+  "id": "chofetz-chaim",
+  "label": "The Chofetz Chaim",
+  "he": "החפץ חיים",
+  "category": "tzadikim",
+  "book": "Modern",
+  "summary": "Rabbi Yisrael Meir Kagan of Radin, who wrote the sefer on shmiras halashon that gave him his name, and the Mishnah Berurah that sits in every shul.",
+  "hasTorahTalePage": true,
+  "cover": "chofetz-chaim.webp"
+ },
+ {
+  "id": "rabbi-chaim-brisk",
+  "label": "Rabbi Chaim of Brisk",
+  "he": "רבי חיים מבריסק",
+  "category": "tzadikim",
+  "book": "Modern",
+  "summary": "Rabbi Chaim Soloveitchik, who taught the Brisker derech of learning - and was known even more for how much of his own he gave away to the poor of Brisk.",
+  "hasTorahTalePage": true,
+  "cover": "rabbi-chaim-brisk.webp"
+ },
+ {
+  "id": "rav-kook",
+  "label": "Rav Avraham Yitzchak HaKohen Kook",
+  "he": "הרב אברהם יצחק הכהן קוק",
+  "category": "tzadikim",
+  "book": "Modern",
+  "summary": "The first Ashkenazi chief rabbi of Eretz Yisrael, a talmid chacham and a writer whose ahavas Yisrael reached every kind of Jew he met.",
+  "hasTorahTalePage": true,
+  "cover": "rav-kook.webp"
+ },
+ {
+  "id": "the-chazon-ish",
+  "label": "The Chazon Ish",
+  "he": "החזון איש",
+  "category": "tzadikim",
+  "book": "Modern",
+  "summary": "Rabbi Avraham Yeshayahu Karelitz, who lived in a small room in Bnei Brak and guided the rebuilding of Torah life in Eretz Yisrael after the war.",
+  "hasTorahTalePage": true,
+  "cover": "the-chazon-ish.webp"
+ },
+ {
+  "id": "rav-moshe-feinstein",
+  "label": "Rav Moshe Feinstein",
+  "he": "רבי משה פיינשטיין",
+  "category": "tzadikim",
+  "book": "Modern",
+  "summary": "The posek of America - a rosh yeshivah on the Lower East Side whose Igros Moshe answered the questions of a new world with the Torah of the old one.",
+  "hasTorahTalePage": true,
+  "cover": "rav-moshe-feinstein.webp"
+ },
+ {
+  "id": "rav-ovadia-yosef",
+  "label": "Rav Ovadia Yosef",
+  "he": "רבי עובדיה יוסף",
+  "category": "tzadikim",
+  "book": "Modern",
+  "summary": "Who worked to restore the psak of Maran the Beis Yosef for Sephardic Jewry, and taught Torah to hundreds of thousands who had never had a rebbi.",
+  "hasTorahTalePage": true,
+  "cover": "rav-ovadia-yosef.webp"
+ },
+ {
+  "id": "the-lubavitcher-rebbe",
+  "label": "The Lubavitcher Rebbe",
+  "he": "הרבי מליובאוויטש",
+  "category": "tzadikim",
+  "book": "Modern",
+  "summary": "Rabbi Menachem Mendel Schneerson, who sent shluchim to every corner of the world so that no Yid anywhere would be out of reach.",
+  "hasTorahTalePage": true,
+  "cover": "the-lubavitcher-rebbe.webp"
+ },
+ {
+  "id": "midrash-avraham-idols",
+  "label": "Avraham and His Father's Idols",
+  "he": "אברהם ופסלי תרח",
+  "category": "midrash",
+  "book": null,
+  "summary": "Avraham is left to mind his father's idol shop - and by evening every idol but one lies broken, with a stick in the biggest one's hand. The midrash of the boy who saw the truth when no one else did, from Bereishis Rabbah.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-yaakov-stones",
+  "label": "The Stones That Wanted Yaakov",
+  "he": "האבנים שרבו על יעקב",
+  "category": "midrash",
+  "book": null,
+  "summary": "Yaakov lies down to sleep on the road to Charan, and the stones around him argue over which one will hold the tzaddik's head - until Hashem makes them one. That place, Chazal say, is where the Beis HaMikdash would stand.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-moshe-coal",
+  "label": "Baby Moshe and the Burning Coal",
+  "he": "משה התינוק והגחלת",
+  "category": "midrash",
+  "book": null,
+  "summary": "In Paroh's palace little Moshe puts the king's crown on his own head, and the advisors set a test of gold and a burning coal. How a malach's push saved his life, and why the greatest speaker of Torah was slow of speech.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-moshe-kid",
+  "label": "Moshe and the Thirsty Little Goat",
+  "he": "משה והגדי הצמא",
+  "category": "midrash",
+  "book": null,
+  "summary": "A little goat runs away from Yisro's flock, and Moshe chases it to a pool of water, waits while it drinks, and carries it home on his shoulders. The moment Chazal say Hashem chose him to shepherd Klal Yisrael.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-aron-yosef",
+  "label": "Yosef's Coffin in the Nile",
+  "he": "ארונו של יוסף ביאור",
+  "category": "midrash",
+  "book": null,
+  "summary": "On the night of Yetzias Mitzrayim, while everyone gathers gold, Moshe searches for Yosef's coffin. Serach bas Asher leads him to the Nile, the coffin rises, and at Yam Suf the sea splits in Yosef's merit. A promise kept across the generations.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-nachshon",
+  "label": "Nachshon Jumps into the Sea",
+  "he": "נחשון קופץ לים",
+  "category": "midrash",
+  "book": null,
+  "summary": "The Egyptians behind them, the sea in front, and nobody willing to go first - until Nachshon ben Aminadav jumps in first. The sea splits for the one who took the first step.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-miriam-well",
+  "label": "Miriam's Well",
+  "he": "בארה של מרים",
+  "category": "midrash",
+  "book": null,
+  "summary": "For forty years in the midbar a rock-shaped well rolled along beside the camp and gave the whole nation water, in the merit of Miriam. Where it went, why it stopped, and where Chazal say you can still see it.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-sinai-mountains",
+  "label": "The Mountains Who Wanted the Torah",
+  "he": "ההרים שרצו את התורה",
+  "category": "midrash",
+  "book": null,
+  "summary": "Har Tavor and Har Carmel come running, each one sure the Torah belongs on its peak. Hashem chooses the lowest of them all. Why the Torah was given on a humble mountain, from the Gemara in Megillah.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-silent-world",
+  "label": "The Day the Whole World Was Quiet",
+  "he": "היום שבו העולם שתק",
+  "category": "midrash",
+  "book": null,
+  "summary": "No bird sang, no ox mooed, the sea stopped its waves and even the malachim fell silent - and into that stillness came the words Anochi Hashem Elokecha. The morning of Matan Torah, from Shemos Rabbah.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-shlomo-shamir",
+  "label": "Shlomo HaMelech and the Shamir",
+  "he": "שלמה המלך והשמיר",
+  "category": "midrash",
+  "book": null,
+  "summary": "The Beis HaMikdash could not be built with iron, so Shlomo HaMelech needed the shamir - a creature the size of a barley grain that splits stone. A clever trap of glass, a hoopoe's nest, and a house of peace.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-hillel-roof",
+  "label": "Hillel on the Roof in the Snow",
+  "he": "הלל על הגג בשלג",
+  "category": "midrash",
+  "book": null,
+  "summary": "Too poor to pay the guard, Hillel climbs onto the roof of the beis medrash to listen at the skylight - and the snow falls all night. The Gemara's story of a grown, hard-working man who wanted Torah more than warmth.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-choni-carob",
+  "label": "Choni and the Carob Tree",
+  "he": "חוני והחרוב",
+  "category": "midrash",
+  "book": null,
+  "summary": "Choni asks a man why he is planting a tree that will not give fruit for seventy years - then falls asleep for exactly that long. A story from Taanis about planting for the people who come after us.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-chanina-stone",
+  "label": "Rabbi Chanina's Gift for Yerushalayim",
+  "he": "האבן של רבי חנינא",
+  "category": "midrash",
+  "book": null,
+  "summary": "Too poor to bring a gift to Yerushalayim, Rabbi Chanina ben Dosa polishes a great stone himself - and five strangers carry it there in a single moment. The midrash of the gift that comes from the heart.",
+  "hasTorahTalePage": true,
+  "cover": null
+ },
+ {
+  "id": "midrash-kosel",
+  "label": "The Wall That Was Never Destroyed",
+  "he": "הכותל שלא נחרב",
+  "category": "midrash",
+  "book": null,
+  "summary": "When the Romans pulled down the walls of the Beis HaMikdash, one wall was left standing, because Hashem promised it would never be destroyed. The story behind the Kosel HaMaaravi, where the Shechinah has never left.",
+  "hasTorahTalePage": true,
+  "cover": null
+ }
+]

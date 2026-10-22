@@ -1,0 +1,131 @@
+@font-face {
+  font-family: "TorahTaleTitle";
+  src: url("/assets/fonts/TorahTale-Regular.woff2") format("woff2");
+  font-display: swap;
+}
+
+:root {
+  --bg: #f6f4ef;
+  --surface: #ffffff;
+  --ink: #1f2638;
+  --muted: #5b6275;
+  --line: #e4e0d6;
+  --navy: #1c2a4a;
+  --gold: #e9b52f;
+  --gold-dark: #b8860b;
+  --gold-soft: #fbf1d4;
+  --link: #1d4f91;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgba(20, 28, 45, .06), 0 6px 20px rgba(20, 28, 45, .06);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #14171f; --surface: #1c2029; --ink: #e9e6de; --muted: #a3a7b3; --line: #2c313d;
+    --navy: #0f1626; --gold: #f0c04d; --gold-dark: #f0c04d; --gold-soft: #2b2617; --link: #8fb6ec;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #14171f; --surface: #1c2029; --ink: #e9e6de; --muted: #a3a7b3; --line: #2c313d;
+  --navy: #0f1626; --gold: #f0c04d; --gold-dark: #f0c04d; --gold-soft: #2b2617; --link: #8fb6ec;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 18px/1.65 Georgia, "Iowan Old Style", "Times New Roman", serif;
+}
+a { color: var(--link); }
+img { max-width: 100%; height: auto; display: block; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
+h1, h2, h3 { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.25; color: var(--ink); }
+h1 { font-size: clamp(1.8rem, 4.5vw, 2.6rem); margin: .3em 0; letter-spacing: -.01em; }
+h2 { font-size: 1.45rem; margin: 1.8em 0 .5em; }
+h3 { font-size: 1.15rem; margin: 1.4em 0 .3em; }
+.small, .meta, .kicker, .crumbs { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: .82rem; color: var(--muted); }
+.kicker { text-transform: uppercase; letter-spacing: .06em; font-weight: 600; margin: 0; }
+.kicker a { color: var(--gold-dark); text-decoration: none; }
+.lede { font-size: 1.1rem; color: var(--muted); max-width: 46em; }
+
+/* header */
+.site-header { background: var(--navy); color: #fff; }
+.header-row { display: flex; align-items: center; gap: 20px; min-height: 60px; flex-wrap: wrap; padding-top: 8px; padding-bottom: 8px; }
+.logo { text-decoration: none; }
+.logo-word { font-family: "TorahTaleTitle", Georgia, serif; font-size: 1.7rem; color: var(--gold); line-height: 1; }
+.nav { display: flex; gap: 4px 14px; flex-wrap: wrap; font: 600 .85rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.nav a { color: #dfe4ee; text-decoration: none; }
+.nav a:hover { color: var(--gold); }
+
+/* breadcrumbs */
+.crumbs { display: flex; flex-wrap: wrap; gap: 6px; margin: 18px 0 4px; }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { text-decoration: underline; }
+
+/* article */
+.article { max-width: 780px; }
+.article-head { margin: 8px 0 18px; }
+.hero { margin: 0 0 24px; }
+.hero img { border-radius: var(--radius); width: 100%; max-height: 440px; object-fit: cover; }
+.prose p, .prose li { max-width: 40em; }
+.prose blockquote { margin: 1em 0; padding: .4em 1em; border-left: 4px solid var(--gold); background: var(--gold-soft); border-radius: 0 8px 8px 0; }
+.toc { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 18px; margin: 22px 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: .92rem; }
+.toc ol { margin: 6px 0 0; padding-left: 1.2em; }
+.faq details { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin: 8px 0; }
+.faq summary { cursor: pointer; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: .98rem; }
+
+/* ads */
+.ad-slot { margin: 28px 0; min-height: 120px; }
+.ad-label, .ha-kicker { display: block; font: 600 .7rem/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-bottom: 6px; }
+.house-ad { margin: 28px 0; }
+.house-ad a { display: flex; gap: 14px; align-items: center; background: var(--gold-soft); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; text-decoration: none; color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.house-ad img { width: 84px; height: 84px; border-radius: 10px; object-fit: cover; flex: none; }
+.house-ad img.mark { width: 56px; height: 56px; }
+.ha-text { display: flex; flex-direction: column; gap: 2px; font-size: .9rem; color: var(--muted); flex: 1; min-width: 0; }
+.ha-text strong { color: var(--ink); font-size: 1.02rem; }
+.ha-cta { flex: none; background: var(--navy); color: #fff; border-radius: 999px; padding: 8px 14px; font-weight: 600; font-size: .85rem; }
+@media (max-width: 560px) { .house-ad a { flex-wrap: wrap; } .ha-cta { width: 100%; text-align: center; } }
+
+/* TorahTale call to action */
+.tt-cta { display: flex; gap: 22px; align-items: center; background: var(--navy); color: #eef1f7; border-radius: var(--radius); padding: 24px; margin: 40px 0; }
+.tt-cta h2 { color: #fff; margin: .2em 0 .4em; }
+.tt-cta img { width: 200px; border-radius: 10px; flex: none; }
+.tt-kicker { color: var(--gold); text-transform: uppercase; letter-spacing: .08em; font: 700 .75rem/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; }
+.tt-actions { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
+.btn { display: inline-block; background: var(--gold); color: #1c2333; font: 700 1rem/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 14px 20px; border-radius: 999px; text-decoration: none; }
+.btn:hover { filter: brightness(1.05); }
+.tt-cta .link { color: #fff; }
+@media (max-width: 640px) { .tt-cta { flex-direction: column; align-items: flex-start; } .tt-cta img { width: 100%; max-width: 260px; } }
+
+/* cards and grids */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 16px; }
+.card { display: flex; flex-direction: column; gap: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; text-decoration: none; color: var(--ink); box-shadow: var(--shadow); padding-bottom: 14px; }
+.card img { aspect-ratio: 16 / 10; object-fit: cover; width: 100%; margin-bottom: 8px; }
+.card > :not(img) { padding: 0 14px; }
+.card strong { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.3; }
+.card-kicker { font: 700 .7rem/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; text-transform: uppercase; letter-spacing: .07em; color: var(--gold-dark); }
+.card-desc { font-size: .88rem; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.more { margin-bottom: 40px; }
+
+.topic-head { display: flex; gap: 24px; align-items: center; margin: 10px 0 26px; }
+.topic-head img { width: 200px; border-radius: var(--radius); flex: none; }
+@media (max-width: 640px) { .topic-head { flex-direction: column; align-items: flex-start; } .topic-head img { width: 100%; max-width: 280px; } }
+.topic-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; margin-bottom: 40px; }
+.topic { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; text-decoration: none; color: var(--ink); display: flex; flex-direction: column; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.topic img { aspect-ratio: 1; object-fit: cover; width: 100%; }
+.topic strong { padding: 8px 10px 0; font-size: .95rem; line-height: 1.3; }
+.topic span { padding: 0 10px 10px; font-size: .78rem; color: var(--muted); }
+
+.home-hero { background: linear-gradient(180deg, var(--navy), #263a66); color: #fff; padding: 44px 0 40px; }
+.home-hero h1 { color: #fff; max-width: 20em; }
+.home-hero .lede { color: #d6dcea; }
+.cat-grid { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px; }
+.cat-grid a { background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 8px 16px; text-decoration: none; color: var(--ink); font: 600 .9rem/1.3 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.page { max-width: 760px; padding-bottom: 40px; }
+
+/* footer */
+.site-footer { background: var(--surface); border-top: 1px solid var(--line); padding: 28px 0 20px; margin-top: 40px; }
+.footer-cta { display: flex; gap: 14px; align-items: flex-start; }
+.footer-cta img { border-radius: 8px; flex: none; }
+.footer-cta p { margin: 0; font-size: .95rem; }
+.footer-nav { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 16px; font: .85rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.footer-nav a { color: var(--muted); }
