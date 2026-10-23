@@ -19,8 +19,17 @@ export const searchName = (t) => {
   return n;
 };
 
+// The catalogue summaries were written to describe TorahTale's books ("a child
+// watches..."). Keep only the sentences about the story itself.
+const storyOnly = (summary) => {
+  const sentences = summary.match(/[^.!?]+[.!?]+/g) || [summary];
+  const kept = sentences.filter((x) => !/\b(child|children|your|reader|book|kids?)\b/i.test(x));
+  return (kept.length ? kept : sentences.slice(0, 1)).map((x) => x.trim()).join(" ");
+};
+
 export const TOPICS = RAW.filter((t) => !isDoubleParsha(t) && CATEGORIES[t.category]).map((t) => ({
   ...t,
+  summary: storyOnly(t.summary),
   name: searchName(t),
   categorySlug: CATEGORIES[t.category].slug,
 }));

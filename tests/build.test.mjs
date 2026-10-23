@@ -20,16 +20,17 @@ test("house ads take exactly half of the ad slots once AdSense is on", () => {
   let house = 0, google = 0;
   for (const a of articles) {
     const html = page(a.slug);
-    house += (html.match(/class="house-ad"/g) || []).length;
+    house += (html.match(/class="promo"/g) || []).length;
     google += (html.match(/class="adsbygoogle"/g) || []).length;
   }
   assert.ok(house + google > 0);
   assert.ok(Math.abs(house - google) <= articles.length, `house ${house} vs google ${google}`);
+  assert.ok(house >= google, "TorahTale gets at least half");
 });
 
 test("house ads never imitate Google ads", () => {
   for (const a of articles) {
-    const houses = page(a.slug).match(/<aside class="house-ad"[\s\S]*?<\/aside>/g) || [];
+    const houses = page(a.slug).match(/<aside class="promo"[\s\S]*?<\/aside>/g) || [];
     for (const h of houses) assert.doesNotMatch(h, /Ads by Google|AdChoices|adsbygoogle/i);
   }
 });
@@ -37,7 +38,7 @@ test("house ads never imitate Google ads", () => {
 test("every article ends with a TorahTale call to action carrying UTM tags", () => {
   for (const a of articles) {
     const html = page(a.slug);
-    assert.match(html, /class="tt-cta"/);
+    assert.match(html, /class="feature"/);
     assert.match(html, /https:\/\/torahtale\.com\/[^"]*utm_source=torah-stories/);
   }
 });

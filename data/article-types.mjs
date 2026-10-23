@@ -7,6 +7,9 @@
 
 export const ARTICLE_TYPES = {
   "story-for-kids": {
+    label: "Read-aloud story",
+    ages: "Ages 4 to 9",
+    plural: "Stories",
     title: "{name} Story for Kids",
     keyword: "{name} story for kids",
     brief:
@@ -16,6 +19,9 @@ export const ARTICLE_TYPES = {
     priority: 1,
   },
   "summary-for-kids": {
+    label: "Parsha summary",
+    ages: "Ages 7 and up",
+    plural: "Summaries",
     title: "{name} Summary for Kids",
     keyword: "{name} summary for kids",
     brief:
@@ -25,6 +31,9 @@ export const ARTICLE_TYPES = {
     priority: 2,
   },
   "shabbos-table-questions": {
+    label: "Table questions",
+    ages: "All ages",
+    plural: "Shabbos Table Questions",
     title: "{name}: Questions for the Shabbos Table",
     keyword: "{name} questions for kids",
     brief:
@@ -34,6 +43,9 @@ export const ARTICLE_TYPES = {
     priority: 2,
   },
   "dvar-torah-for-kids": {
+    label: "Dvar Torah",
+    ages: "Ages 6 to 12",
+    plural: "Divrei Torah for Kids",
     title: "Short Dvar Torah for Kids on {name}",
     keyword: "{name} dvar torah for kids",
     brief:
@@ -43,6 +55,9 @@ export const ARTICLE_TYPES = {
     priority: 2,
   },
   "activities-and-crafts": {
+    label: "Activities",
+    ages: "Ages 3 to 10",
+    plural: "Activities and Crafts",
     title: "{name} Activities and Crafts for Kids",
     keyword: "{name} activities for kids",
     brief:
@@ -52,6 +67,9 @@ export const ARTICLE_TYPES = {
     priority: 3,
   },
   "quiz-for-kids": {
+    label: "Quiz",
+    ages: "Ages 5 to 12",
+    plural: "Quizzes",
     title: "{name} Quiz for Kids (with Answers)",
     keyword: "{name} quiz",
     brief:
@@ -61,6 +79,9 @@ export const ARTICLE_TYPES = {
     priority: 3,
   },
   "middos-lesson": {
+    label: "Lesson",
+    ages: "For parents",
+    plural: "Middos Lessons",
     title: "What {name} Teaches Children",
     keyword: "{name} lesson for kids",
     brief:
@@ -70,6 +91,9 @@ export const ARTICLE_TYPES = {
     priority: 3,
   },
   "preschool-ideas": {
+    label: "Preschool",
+    ages: "Ages 2 to 5",
+    plural: "Preschool Ideas",
     title: "Teaching {name} to Preschoolers",
     keyword: "{name} preschool",
     brief:
@@ -79,6 +103,9 @@ export const ARTICLE_TYPES = {
     priority: 4,
   },
   "facts-for-kids": {
+    label: "Facts",
+    ages: "Ages 6 and up",
+    plural: "Facts for Kids",
     title: "{name}: Facts for Kids",
     keyword: "{name} facts for kids",
     brief:
@@ -88,6 +115,9 @@ export const ARTICLE_TYPES = {
     priority: 4,
   },
   "bedtime-story": {
+    label: "Bedtime story",
+    ages: "Ages 3 to 7",
+    plural: "Bedtime Stories",
     title: "{name} Bedtime Story",
     keyword: "{name} bedtime story",
     brief:
@@ -97,6 +127,9 @@ export const ARTICLE_TYPES = {
     priority: 5,
   },
   "teaching-guide": {
+    label: "Parent guide",
+    ages: "For parents",
+    plural: "Parent Guides",
     title: "How to Teach Kids About {name}",
     keyword: "teaching kids about {name}",
     brief:
